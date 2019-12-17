@@ -1,104 +1,61 @@
-> [stephenjcorwin@gmail.com](mailto:stephenjcorwin@gmail.com) | 
-[919.478.1889](tel:9194781889)
+> [tamagusko@gmail.com](mailto:tamagusko@gmail.com) | 
+[Linkedin](https://www.linkedin.com/in/tamagusko/)
 
-# Stephen Corwin &ndash; Senior Front-End Engineer
-- 7+ years of experience as a software engineer in various industries
-- Full stack engineer with a concentration on front-end technologies
-- Trained several front-end engineers while managing their online curriculum
-- Published several open-source modules on GitHub and NPM
+# Tiago Tamagusko &ndash; Civil Engineer & Data Analyst
+- 5+ years of experience as a civil engineer in the transportation area
+- Seeking to develop and apply multidisciplinary skills to solve complex problems
+- Enthusiast of AI, programming, and technology
 
 ## Education
-**ECPI University, VA Beach, VA**  
-B.S. in Computer and Information Sciences  
-*Major in Simulation and Game Programming*  
-*July 2013*  
+**UNIVERSITY OF COIMBRA, Coimbra, PT**  
+M.Sc. in Urban Mobility Management | in progress
+*AIRPORT PAVEMENT DESIGN*  
+*Scheduled for January 2020*
+
+**FEDERAL UNIVERSITY OF SANTA CATARINA, Florianópolis, BR**  
+B.Sc. in Civil Engineering
+*STANDARDIZATION OF RAILWAYS IN BRAZIL*  
+*2013*
+
+**FEDERAL INSTITUTE OF SANTA CATARINA, São José, BR**  
+Telecommunications Technician  
+*2005*  
+
+**FEDERAL INSTITUTE OF SANTA CATARINA, São José, BR**
+Computer Network Technician 
+*2004*  
 
 ## Skills
-- Architectural Pattern &ndash; Model View Controller, Server Side Rendering, Finite State Machine
-- Methodology &ndash; Agile, Scrum, Cross-platform Development, Object-Oriented Programming, Rapid Application Development
-- Programming Language &ndash; JavaScript, TypeScript, CSS, LESS, SASS, HTML
-- UI &ndash; Mobile-first Design, Responsive Web Design 
-- UX &ndash; Information Architecture, Persona Classification
+- Complex problem solving
+- Critical and analytical thinking
+- Passion for learning
+- Flexibility and adaptability
+- Programming Language &ndash; Python, Matlab, SQL
+- Data Analysis (Python, SQL, Excel)
 
 ## Tools
-- Framework &ndash; React, Redux, Node.js, Express, Amazon Web Services, Styled Components, Three.js, Bluebird, jQuery, AJAX
-- Automation Software &ndash; Webpack, Gulp, Jenkins
-- Graphic Editor &ndash; Adobe Illustrator, Adobe Photoshop, Sketch
-- Prototyping &ndash; Balsamiq, InVision
-- Email Distribution System &ndash; HubSpot
+- Autocad, ArcGIS, QGIS
+- SQL database (GIS)
+- Advanced in MS Excel
+- PTV-Vissum, Aimsun
+- HDM-4, FAARFIELD
+- Python, Matlab
 
 ## Experience
-**Kensho, Tyson's Corner, VA**  
-Software Engineer  
-*April 2018 &ndash; Present*  
-- Developed geopolitical analysis platform
-- Migrated existing codebase to TypeScript from JavaScript
-- Hardened the product with both unit and integration tests
-- Developed Visallo which is a platform that provides investigative link and geospatial analysis
-- Developed marketing websites
-- Integrated analytics tools into existing products
+**LabTrans, Florianópolis, BR**  
+Civil Engineer | Researcher
+*2010&ndash2018 (4yr. intern and 5yr. Engineer/Researcher)*  
+- Technical studies and development of projects for weigh-in-motion systems
+- Engineering economics, cost-benefit and life-cycle analysis of pavements
+- Transport infrastructures, maintenance and rehabilitation management
+- Design and Construction of continuously reinforced concrete pavement
+- Design and construction of asphalt pavement
+- GIS-Based Network Analysis for the national road network (Brazil)
 
-**Under Armour, Baltimore, MD**  
-Software Engineer &ndash; Contractor  
-*June 2017 &ndash; March 2018*  
-- Developed site manager portal which housed tooling used by customer service representatives
-- Migrated existing LESS styling to use Styled Components
-- Developed API and Service endpoints
-- Integrated Auth0 flow into the site manager portal
-- Created wireframes
+**Alcatel-Lucent Enterprise, São José, BR**  
+Intern &ndash; Telecommmunications Technician  
+*2004 &ndash; 2005*  
+- Training for telecommunications technician
+- Assignments in the infrastructure field
 
-**RainKing Solutions, Bethesda, MD**  
-Senior Front-End Engineer &ndash; Contractor  
-*February 2017 &ndash; June 2017*  
-- Developed pages and components to support a new major release (v4.0) for the RainKing platform
-- Integrated Gulp and NPM with the existing Jenkins build pipeline
-- Created wireframes
-- Collaborated with a third-party consulting agency to communicate design requests and revisions
-
-**Becton Dickinson, Reston VA**  
-Senior UI Developer &ndash; Contractor  
-*July 2016 &ndash; February 2017*  
-- Lead UI Developer on a distributed team including 6 offshore resources
-- Performed code reviews and provided technical analysis
-- Developed a medical hybrid application
-- Integrated a medical hybrid application with bluetooth pairing, bluetooth printers, and barcode scanners
-
-**Acuity Systems LLC, Herndon, VA**  
-UI Developer &ndash; Contractor  
-*April 2016 &ndash; July 2016*  
-- Created wireframes
-- Designed mockups
-- Developed API service container in Node.js connecting custom Web Portal to MicroStrategy Intelligence Server
-- Integrated Web Portal with GSA common components
-
-**Folio Investing, McLean, VA**  
-UI Developer  
-*April 2015 &ndash; April 2016*  
-- Developed investing platform application
-- Developed an SVG signature pad for JSP templates and ported it as an Angular directive
-- Redesigned and implemented a new account opening path
-- Designed wireframes mockups
-- Created numerous utility plugins
-
-**Millennial Media, Baltimore, MD**  
-Web Developer  
-*February 2014 &ndash; April 2015*  
-- Extended the capabilities of the existing CMS by creating modules and templates
-- Integrated Smartling as a multilingual translation solution
-- Developed IOS and Android mobile applications
-- Developed event portal that enables users to create RSVP and information landing pages
-- Developed marketing campaign websites
-
-**BLDG-25, Durham, NC**  
-Web Developer  
-*August 2013 &ndash; February 2014*  
-- Developed a virtual simulation for a German real estate company
-- Created UI visualizations for a consumed web service
-- Developed an e-learning web application for Blue Cross Blue Shield of Louisiana
-
-**System Technologies Advanced Research, VA Beach, VA**  
-Software Engineer  
-*November 2012 &ndash; July 2013*  
-- Developed a virtual simulation running in a touch-enabled kiosk of the US Battleship Wisconsin for the Nauticus museum in Norfolk, VA
-- Developed IOS and Android mobile applications
-- Developed sound software for the Raspberry Pi which interfaced with IO hardware modules
+## Last updated on December 17, 2019
