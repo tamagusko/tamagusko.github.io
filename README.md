@@ -10,21 +10,21 @@
 - Enthusiast of AI, programming, and technology
 
 ## Education
-**UNIVERSITY OF COIMBRA, Coimbra, PT**  
+**UNIVERSITY OF COIMBRA, Coimbra, Portugal**  
 M.Sc. in Urban Mobility Management | in progress  
-*Thesis: AIRPORT PAVEMENT DESIGN*  
+*AIRPORT PAVEMENT DESIGN*  
 *Scheduled for January 2020*
 
-**FEDERAL UNIVERSITY OF SANTA CATARINA, Florianópolis, BR**  
+**FEDERAL UNIVERSITY OF SANTA CATARINA, Florianópolis, Brazil**  
 B.Sc. in Civil Engineering  
-*Final paper: STANDARDIZATION OF RAILWAYS IN BRAZIL*  
+*STANDARDIZATION OF RAILWAYS IN BRAZIL*  
 *2013*
 
-**FEDERAL INSTITUTE OF SANTA CATARINA, São José, BR**  
+**FEDERAL INSTITUTE OF SANTA CATARINA, São José, Brazil**  
 Telecommunications Technician  
 *2005*  
 
-**FEDERAL INSTITUTE OF SANTA CATARINA, São José, BR**  
+**FEDERAL INSTITUTE OF SANTA CATARINA, São José, Brazil**  
 Computer Network Technician  
 *2004*
 
@@ -46,7 +46,7 @@ Computer Network Technician
 - Python, Matlab
 
 ## Experience
-**LabTrans, Florianópolis, BR**  
+**LabTrans, Florianópolis, Brazil**  
 Civil Engineer | Researcher
 *2010&ndash2018 (4yr. intern and 5yr. Engineer/Researcher)*  
 - Technical studies and development of projects for weigh-in-motion systems
@@ -56,10 +56,19 @@ Civil Engineer | Researcher
 - Design and construction of asphalt pavement
 - GIS-Based Network Analysis for the national road network (Brazil)
 
-**Alcatel-Lucent Enterprise, São José, BR**  
+**Alcatel-Lucent Enterprise, São José, Brazil**  
 Intern &ndash; Telecommmunications Technician  
 *2004 &ndash; 2005*  
 - Training for telecommunications technician
 - Assignments in the infrastructure field
 
+<!-- This is commented out.
+## Publications
+### In revision
+Tamagusko T., Ferreira A. Software Tools for Airport Pavement Design. *WorldCist'20*, in revision.  
+Tamagusko T., Ferreira A. Métodos de Dimensionamento de Pavimentos de Aeroportos e Aeródromos. *9CongressoLuso-MocambicanoDeEngenharia*, in revision.
+ -->
+
 **Last updated on December 17, 2019**
+
+[Adapted From Stephen Corwin](https://github.com/stephencorwin/resume/blob/master/export/stephen-corwin_resume.md)
