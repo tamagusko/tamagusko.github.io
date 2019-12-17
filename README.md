@@ -71,4 +71,4 @@ Tamagusko T., Ferreira A. Métodos de Dimensionamento de Pavimentos de Aeroporto
 
 **Last updated on December 17, 2019**
 
-[Adapted from Stephen Corwin](https://github.com/stephencorwin/resume/blob/master/export/stephen-corwin_resume.md)
+[Layout adapted from Stephen Corwin](https://github.com/stephencorwin/resume/blob/master/export/stephen-corwin_resume.md)
