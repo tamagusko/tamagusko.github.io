@@ -11,12 +11,12 @@
 
 ## Education
 **UNIVERSITY OF COIMBRA, Coimbra, PT**  
-M.Sc. in Urban Mobility Management | in progress
+M.Sc. in Urban Mobility Management | in progress  
 *AIRPORT PAVEMENT DESIGN*  
 *Scheduled for January 2020*
 
 **FEDERAL UNIVERSITY OF SANTA CATARINA, Florianópolis, BR**  
-B.Sc. in Civil Engineering
+B.Sc. in Civil Engineering  
 *STANDARDIZATION OF RAILWAYS IN BRAZIL*  
 *2013*
 
