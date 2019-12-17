@@ -9,12 +9,11 @@ Civil Engineer & Data Analyst
 - Seeking to develop and apply multidisciplinary skills to solve complex problems;
 - Enthusiast of AI, programming, and technology.<br/>
 
-<a href="tamagusko@gmail.com">tamagusko@gmail.com</a>
-
 <div id="webaddress">
   <a href="https://tamagusko.github.io"><i class="fas fa-home"></i> tamagusko.github.io</a> - 
   <a href="https://github.com/tamagusko"><i class="fab fa-github"></i> tamagusko</a> - 
   <a href="https://www.linkedin.com/in/tamagusko/"><i class="fab fa-linkedin"></i> @tamagusko</a>
+  <a href="mailto:tamagusko@gmail.com/"><i class="fab fa-envelope"></i> tamagusko@gmail.com</a>
 </div>
 
 ## Education
