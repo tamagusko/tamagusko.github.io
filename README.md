@@ -26,11 +26,7 @@ Telecommunications Technician
 
 **FEDERAL INSTITUTE OF SANTA CATARINA, São José, BR**  
 Computer Network Technician  
-*2004*  
-
-**FEDERAL INSTITUTE OF SANTA CATARINA, São José, BR**
-Computer Network Technician
-*2004*  
+*2004*
 
 
 ## Skills
