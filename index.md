@@ -74,4 +74,4 @@ Tamagusko T., Ferreira A. Métodos de Dimensionamento de Pavimentos de Aeroporto
 
 <br/>Last updated: December 17, 2019<br/><br/>
 
-[Adapted From Dave Whipp](https://github.com/davewhipp/markdown-cv)
+[Adapted from Dave Whipp](https://github.com/davewhipp/markdown-cv)
