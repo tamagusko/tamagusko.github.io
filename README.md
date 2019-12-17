@@ -1,5 +1,5 @@
 > [tamagusko@gmail.com](mailto:tamagusko@gmail.com) | 
-[Linkedin](https://www.linkedin.com/in/tamagusko/)
+[www.linkedin.com/in/tamagusko/](https://www.linkedin.com/in/tamagusko/)
 
 
 
@@ -23,6 +23,10 @@ B.Sc. in Civil Engineering
 **FEDERAL INSTITUTE OF SANTA CATARINA, São José, BR**  
 Telecommunications Technician  
 *2005*  
+
+**FEDERAL INSTITUTE OF SANTA CATARINA, São José, BR**  
+Computer Network Technician  
+*2004*  
 
 **FEDERAL INSTITUTE OF SANTA CATARINA, São José, BR**
 Computer Network Technician
