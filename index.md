@@ -12,7 +12,7 @@ Civil Engineer & Data Analyst
 <div id="webaddress">
   <a href="https://tamagusko.github.io"><i class="fas fa-home"></i> tamagusko.github.io</a> - 
   <a href="https://github.com/tamagusko"><i class="fab fa-github"></i> tamagusko</a> - 
-  <a href="https://www.linkedin.com/in/tamagusko/"><i class="fab fa-linkedin"></i> @tamagusko</a>
+  <a href="https://www.linkedin.com/in/tamagusko/"><i class="fab fa-linkedin"></i> @tamagusko</a> -
   <a href="mailto:tamagusko@gmail.com/"><i class="fas fa-envelope"></i> tamagusko@gmail.com</a>
 </div>
 
