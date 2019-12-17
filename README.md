@@ -1,7 +1,7 @@
 > [tamagusko@gmail.com](mailto:tamagusko@gmail.com) | 
 [Linkedin](https://www.linkedin.com/in/tamagusko/)
 
-# I solve transportation problems, amongst other things
+**I solve transportation problems, amongst other things**
 
 # Tiago Tamagusko &ndash; Civil Engineer & Data Analyst
 - 5+ years of experience as a civil engineer in the transportation area
@@ -24,7 +24,7 @@ Telecommunications Technician
 *2005*  
 
 **FEDERAL INSTITUTE OF SANTA CATARINA, São José, BR**
-Computer Network Technician 
+Computer Network Technician
 *2004*  
 
 ## Skills
