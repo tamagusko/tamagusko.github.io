@@ -50,7 +50,7 @@ Python, Matlab.
 
 `2010-2018`
 **Civil Engineer | Researcher**, *LabTrans, Brazil.*  
-*(4yr. intern and 5yr. Engineer/Researcher)*   
+(4yr. intern and 5yr. Engineer/Researcher)  
 Technical studies and development of projects for weigh-in-motion systems;
 Engineering economics, cost-benefit and life-cycle analysis of pavements;
 Transport infrastructures, maintenance and rehabilitation management;
