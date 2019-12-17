@@ -5,10 +5,9 @@ title: Tiago Tamagusko's CV
 # Tiago Tamagusko
 Civil Engineer & Data Analyst  
 
-**I solve transportation problems, amongst other things**
-- 5+ years of experience as a civil engineer in the transportation area
-- Seeking to develop and apply multidisciplinary skills to solve complex problems
-- Enthusiast of AI, programming, and technology<br/>
+- 5+ years of experience as a civil engineer in the transportation area;
+- Seeking to develop and apply multidisciplinary skills to solve complex problems;
+- Enthusiast of AI, programming, and technology.<br/>
 
 <a href="tamagusko@gmail.com">tamagusko@gmail.com</a>
 
