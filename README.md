@@ -46,8 +46,8 @@ Computer Network Technician
 
 ## Experience
 **LabTrans, Florianópolis, Brazil**  
-Civil Engineer | Researcher
-*2010&ndash2018 (4yr. intern and 5yr. Engineer/Researcher)*  
+Civil Engineer | Researcher  
+*2010 &ndash; 2018 (4yr. intern and 5yr. Engineer/Researcher)*  
 - Technical studies and development of projects for weigh-in-motion systems
 - Engineering economics, cost-benefit and life-cycle analysis of pavements
 - Transport infrastructures, maintenance and rehabilitation management
