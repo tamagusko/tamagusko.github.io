@@ -1,65 +1,64 @@
-> [tamagusko@gmail.com](mailto:tamagusko@gmail.com) | 
-[www.linkedin.com/in/tamagusko/](https://www.linkedin.com/in/tamagusko/)
+# Tiago Tamagusko
+Civil Engineer & Data Analyst
 
+- 5+ years of experience as a civil engineer in the transportation area;
+- Seeking to develop and apply multidisciplinary skills to solve complex problems;
+- Enthusiast of AI, programming, and technology.<br/>
 
-
-# Tiago Tamagusko &ndash; Civil Engineer & Data Analyst  
-- 5+ years of experience as a civil engineer in the transportation area
-- Seeking to develop and apply multidisciplinary skills to solve complex problems
-- Enthusiast of AI, programming, and technology
+<div id="webaddress">
+  <a href="https://tamagusko.github.io"><i class="fas fa-home"></i> tamagusko.github.io</a> - 
+  <a href="https://github.com/tamagusko"><i class="fab fa-github"></i> tamagusko</a> - 
+  <a href="https://www.linkedin.com/in/tamagusko/"><i class="fab fa-linkedin"></i> @tamagusko</a> -
+  <a href="mailto:tamagusko@gmail.com/"><i class="fas fa-envelope"></i> tamagusko@gmail.com</a>
+</div>
 
 ## Education
-**UNIVERSITY OF COIMBRA, Coimbra, Portugal**  
-M.Sc. in Urban Mobility Management | in progress  
-*Thesis: AIRPORT PAVEMENT DESIGN*  
-*Scheduled for January 2020*
 
-**FEDERAL UNIVERSITY OF SANTA CATARINA, Florianópolis, Brazil**  
-B.Sc. in Civil Engineering  
-*Final Paper: STANDARDIZATION OF RAILWAYS IN BRAZIL*  
-*2013*
+`2018-2020`
+**M.Sc., Urban Mobility Management | in progress**, *University of Coimbra*, Portugal.
 
-**FEDERAL INSTITUTE OF SANTA CATARINA, São José, Brazil**  
-Telecommunications Technician  
-*2005*  
+`2008-2013`
+**B.Sc., Civil Engineering**, *Federal University of Santa Catarina*, Brazil.  
 
-**FEDERAL INSTITUTE OF SANTA CATARINA, São José, Brazil**  
-Computer Network Technician  
-*2004*
+`2005`
+**Tech., Telecommunications**, *Federal Institute of Santa Catarina*, Brazil.  
 
+`2003-2004`
+**Tech., Computer Network**, *Federal Institute of Santa Catarina*, Brazil.    
 
 ## Skills
-- Complex problem solving
-- Critical and analytical thinking
-- Passion for learning
-- Flexibility and adaptability
-- Programming Language &ndash; Python, Matlab, SQL
-- Data Analysis (Python, SQL, Excel)
+Complex problem solving;  
+Critical and analytical thinking;  
+Passion for learning;  
+Flexibility and adaptability;  
+Programming Language &ndash; Python, Matlab, SQL;  
+Data Analysis (Python, SQL, Excel).
 
 ## Tools
-- Autocad, ArcGIS, QGIS
-- SQL database (GIS)
-- Advanced in MS Excel
-- PTV-Vissum, Aimsun
-- HDM-4, FAARFIELD
-- Python, Matlab
+Autocad, ArcGIS, QGIS;  
+SQL, PostgreSQL;  
+Advanced in MS Excel;  
+PTV-Vissum, Aimsun;  
+HDM-4, FAARFIELD;  
+Python, Matlab.
 
 ## Experience
-**LabTrans, Florianópolis, Brazil**  
-Civil Engineer | Researcher  
-*2010 &ndash; 2018 (4yr. intern and 5yr. Engineer/Researcher)*  
-- Technical studies and development of projects for weigh-in-motion systems
-- Engineering economics, cost-benefit and life-cycle analysis of pavements
-- Transport infrastructures, maintenance and rehabilitation management
-- Design and Construction of continuously reinforced concrete pavement
-- Design and construction of asphalt pavement
-- GIS-Based Network Analysis for the national road network (Brazil)
 
-**Alcatel-Lucent Enterprise, São José, Brazil**  
-Intern &ndash; Telecommmunications Technician  
-*2004 &ndash; 2005*  
-- Training for telecommunications technician
-- Assignments in the infrastructure field
+`2010-2018`
+**Civil Engineer | Researcher**, *LabTrans, Brazil.*  
+(4yr. intern and 5yr. Engineer/Researcher)  
+Technical studies and development of projects for weigh-in-motion systems;
+Engineering economics, cost-benefit and life-cycle analysis of pavements;
+Transport infrastructures, maintenance and rehabilitation management;
+Design and Construction of continuously reinforced concrete pavement;
+Design and construction of asphalt pavement;
+GIS-Based Network Analysis for the national road network (Brazil).
+
+`2004-2005`
+**Telecommmunications Technician**, *Alcatel-Lucent Enterprise, Brazil.*  
+(intern)  
+Training for telecommunications technician
+Assignments in the infrastructure field
 
 <!-- This is commented out.
 ## Publications
@@ -68,6 +67,6 @@ Tamagusko T., Ferreira A. Software Tools for Airport Pavement Design. *WorldCist
 Tamagusko T., Ferreira A. Métodos de Dimensionamento de Pavimentos de Aeroportos e Aeródromos. *9CongressoLuso-MocambicanoDeEngenharia*, in revision.
  -->
 
-**Last updated on December 17, 2019**
+<br/>Last updated: December 17, 2019<br/><br/>
 
-[Theme by Stephen Corwin](https://github.com/stephencorwin/resume/blob/master/export/stephen-corwin_resume.md)
+[Hosted on GitHub Pages — Theme by Dave Whipp](https://github.com/davewhipp/markdown-cv)
