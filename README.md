@@ -3,8 +3,7 @@
 
 
 
-# Tiago Tamagusko &ndash; Civil Engineer & Data Analyst
-**I solve transportation problems, amongst other things**
+# Tiago Tamagusko &ndash; Civil Engineer & Data Analyst  
 - 5+ years of experience as a civil engineer in the transportation area
 - Seeking to develop and apply multidisciplinary skills to solve complex problems
 - Enthusiast of AI, programming, and technology
@@ -12,12 +11,12 @@
 ## Education
 **UNIVERSITY OF COIMBRA, Coimbra, Portugal**  
 M.Sc. in Urban Mobility Management | in progress  
-*AIRPORT PAVEMENT DESIGN*  
+*Thesis: AIRPORT PAVEMENT DESIGN*  
 *Scheduled for January 2020*
 
 **FEDERAL UNIVERSITY OF SANTA CATARINA, Florianópolis, Brazil**  
 B.Sc. in Civil Engineering  
-*STANDARDIZATION OF RAILWAYS IN BRAZIL*  
+*Final Paper: STANDARDIZATION OF RAILWAYS IN BRAZIL*  
 *2013*
 
 **FEDERAL INSTITUTE OF SANTA CATARINA, São José, Brazil**  
