@@ -25,10 +25,10 @@ Civil Engineer & Data Analyst
 **B.Sc., Civil Engineering**, *Federal University of Santa Catarina*, Brazil.  
 
 `2005`
-**Telecommunications Technician**, *Federal Institute of Santa Catarina*, Brazil.  
+**Tech., Telecommunications**, *Federal Institute of Santa Catarina*, Brazil.  
 
 `2003-2004`
-**Computer Network Technician**, *Federal Institute of Santa Catarina*, Brazil.    
+**Tech., Computer Network**, *Federal Institute of Santa Catarina*, Brazil.    
 
 ## Skills
 Complex problem solving;  
