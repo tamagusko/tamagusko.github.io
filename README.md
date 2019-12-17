@@ -1,61 +1,104 @@
----
-permalink: /index.html
----
+> [stephenjcorwin@gmail.com](mailto:stephenjcorwin@gmail.com) | 
+[919.478.1889](tel:9194781889)
 
-markdown-cv
-===========
+# Stephen Corwin &ndash; Senior Front-End Engineer
+- 7+ years of experience as a software engineer in various industries
+- Full stack engineer with a concentration on front-end technologies
+- Trained several front-end engineers while managing their online curriculum
+- Published several open-source modules on GitHub and NPM
 
-A curriculum vitae maintained in plain text and rendered to html and pdf using CSS.
+## Education
+**ECPI University, VA Beach, VA**  
+B.S. in Computer and Information Sciences  
+*Major in Simulation and Game Programming*  
+*July 2013*  
 
-For more details see the [project page](http://elipapa.github.io/markdown-cv) or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
+## Skills
+- Architectural Pattern &ndash; Model View Controller, Server Side Rendering, Finite State Machine
+- Methodology &ndash; Agile, Scrum, Cross-platform Development, Object-Oriented Programming, Rapid Application Development
+- Programming Language &ndash; JavaScript, TypeScript, CSS, LESS, SASS, HTML
+- UI &ndash; Mobile-first Design, Responsive Web Design 
+- UX &ndash; Information Architecture, Persona Classification
 
-***
+## Tools
+- Framework &ndash; React, Redux, Node.js, Express, Amazon Web Services, Styled Components, Three.js, Bluebird, jQuery, AJAX
+- Automation Software &ndash; Webpack, Gulp, Jenkins
+- Graphic Editor &ndash; Adobe Illustrator, Adobe Photoshop, Sketch
+- Prototyping &ndash; Balsamiq, InVision
+- Email Distribution System &ndash; HubSpot
 
-## Usage
+## Experience
+**Kensho, Tyson's Corner, VA**  
+Software Engineer  
+*April 2018 &ndash; Present*  
+- Developed geopolitical analysis platform
+- Migrated existing codebase to TypeScript from JavaScript
+- Hardened the product with both unit and integration tests
+- Developed Visallo which is a platform that provides investigative link and geospatial analysis
+- Developed marketing websites
+- Integrated analytics tools into existing products
 
-To start, simply [fork the markdown-cv repo](https://github.com/elipapa/markdown-cv)
+**Under Armour, Baltimore, MD**  
+Software Engineer &ndash; Contractor  
+*June 2017 &ndash; March 2018*  
+- Developed site manager portal which housed tooling used by customer service representatives
+- Migrated existing LESS styling to use Styled Components
+- Developed API and Service endpoints
+- Integrated Auth0 flow into the site manager portal
+- Created wireframes
 
-![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
+**RainKing Solutions, Bethesda, MD**  
+Senior Front-End Engineer &ndash; Contractor  
+*February 2017 &ndash; June 2017*  
+- Developed pages and components to support a new major release (v4.0) for the RainKing platform
+- Integrated Gulp and NPM with the existing Jenkins build pipeline
+- Created wireframes
+- Collaborated with a third-party consulting agency to communicate design requests and revisions
 
-and then [edit directly in github](https://help.github.com/articles/editing-files-in-your-repository/) the `index.md` file
+**Becton Dickinson, Reston VA**  
+Senior UI Developer &ndash; Contractor  
+*July 2016 &ndash; February 2017*  
+- Lead UI Developer on a distributed team including 6 offshore resources
+- Performed code reviews and provided technical analysis
+- Developed a medical hybrid application
+- Integrated a medical hybrid application with bluetooth pairing, bluetooth printers, and barcode scanners
 
-![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
+**Acuity Systems LLC, Herndon, VA**  
+UI Developer &ndash; Contractor  
+*April 2016 &ndash; July 2016*  
+- Created wireframes
+- Designed mockups
+- Developed API service container in Node.js connecting custom Web Portal to MicroStrategy Intelligence Server
+- Integrated Web Portal with GSA common components
 
-adding your skills, jobs and education.
+**Folio Investing, McLean, VA**  
+UI Developer  
+*April 2015 &ndash; April 2016*  
+- Developed investing platform application
+- Developed an SVG signature pad for JSP templates and ported it as an Angular directive
+- Redesigned and implemented a new account opening path
+- Designed wireframes mockups
+- Created numerous utility plugins
 
-![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
+**Millennial Media, Baltimore, MD**  
+Web Developer  
+*February 2014 &ndash; April 2015*  
+- Extended the capabilities of the existing CMS by creating modules and templates
+- Integrated Smartling as a multilingual translation solution
+- Developed IOS and Android mobile applications
+- Developed event portal that enables users to create RSVP and information landing pages
+- Developed marketing campaign websites
 
-To transform your plain text CV into a beautiful looking HTML page and share it you then have two options:
+**BLDG-25, Durham, NC**  
+Web Developer  
+*August 2013 &ndash; February 2014*  
+- Developed a virtual simulation for a German real estate company
+- Created UI visualizations for a consumed web service
+- Developed an e-learning web application for Blue Cross Blue Shield of Louisiana
 
-## Using Github Pages to publish it online
-
-1. Delete the existing `gh-pages` branch from your fork. It will only contain this webpage. You can either use git or [the github web interface](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/#deleting-a-branch)
-2. Create a new branch called `gh-pages` (which will then be a copy of master)
-3. Head to *yourusername*.github.io/markdown-cv to see your CV live.
-
-Any change you want to make to your CV from then on would have to be done on the `gh-pages` branch and will be immediately rendered by Github Pages.
-
-
-## Build it locally and print a PDF
-1. [install jekyll](https://jekyllrb.com/docs/installation/) on your computer. `gem install jekyll` will do for most users.
-2. Clone your fork on your computer
-3. Type `jekyll serve` and you'll be able to see your CV on your local host (the default address is http://localhost:4000).
-4. You can edit the `index.md` file and see changes live in your browser.
-5. To print a PDF, just press *Print*. Print and web CSS media queries should take care of the styling.
-
-
-### is this the only style available?
-
-For the moment, yes.
-The included CSS renders CV in a style inspired by [kjhealy's vita template](https://github.com/kjhealy/kjh-vita), but any styling is possible. Contributions and forks are welcome!
-
-
-### Author
-
-Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[GitHub](http://github.com/elipapa)/[website](https://elipapa.github.io)).
-
-![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
-
-### License
-
-[MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
+**System Technologies Advanced Research, VA Beach, VA**  
+Software Engineer  
+*November 2012 &ndash; July 2013*  
+- Developed a virtual simulation running in a touch-enabled kiosk of the US Battleship Wisconsin for the Nauticus museum in Norfolk, VA
+- Developed IOS and Android mobile applications
+- Developed sound software for the Raspberry Pi which interfaced with IO hardware modules
