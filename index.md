@@ -32,19 +32,19 @@ Civil Engineer & Data Analyst
 **Computer Network Technician**, *Federal Institute of Santa Catarina*, Brazil.    
 
 ## Skills
-Complex problem solving;
-Critical and analytical thinking;
-Passion for learning;
-Flexibility and adaptability;
-Programming Language &ndash; Python, Matlab, SQL;
+Complex problem solving;  
+Critical and analytical thinking;  
+Passion for learning;  
+Flexibility and adaptability;  
+Programming Language &ndash; Python, Matlab, SQL;  
 Data Analysis (Python, SQL, Excel).
 
 ## Tools
-Autocad, ArcGIS, QGIS;
-SQL, PostgreSQL;
-Advanced in MS Excel;
-PTV-Vissum, Aimsun;
-HDM-4, FAARFIELD;
+Autocad, ArcGIS, QGIS;  
+SQL, PostgreSQL;  
+Advanced in MS Excel;  
+PTV-Vissum, Aimsun;  
+HDM-4, FAARFIELD;  
 Python, Matlab.
 
 ## Experience
