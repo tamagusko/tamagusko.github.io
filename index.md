@@ -19,7 +19,7 @@ Civil Engineer & Data Analyst
 ## Education
 
 `2018-2020`
-**M.Sc. in Urban Mobility Management | in progress**, *University of Coimbra*, Portugal.
+**M.Sc., Urban Mobility Management | in progress**, *University of Coimbra*, Portugal.
 
 `2008-2013`
 **B.Sc., Civil Engineering**, *Federal University of Santa Catarina*, Brazil.  
