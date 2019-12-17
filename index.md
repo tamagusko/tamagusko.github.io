@@ -3,7 +3,7 @@ layout: cv
 title: Tiago Tamagusko's CV
 ---
 # Tiago Tamagusko
-## Civil Engineer & Data Analyst  
+Civil Engineer & Data Analyst  
 
 - 5+ years of experience as a civil engineer in the transportation area;
 - Seeking to develop and apply multidisciplinary skills to solve complex problems;
