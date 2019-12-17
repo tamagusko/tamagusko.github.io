@@ -51,8 +51,8 @@ Civil Engineer & Data Analyst
 ## Experience
 
 `2010-2018`
-**Civil Engineer | Researcher**, *LabTrans, Brazil.  
-(4yr. intern and 5yr. Engineer/Researcher)   
+**Civil Engineer | Researcher**, *LabTrans, Brazil.*  
+*(4yr. intern and 5yr. Engineer/Researcher)*   
 - Technical studies and development of projects for weigh-in-motion systems;
 - Engineering economics, cost-benefit and life-cycle analysis of pavements;
 - Transport infrastructures, maintenance and rehabilitation management;
@@ -61,7 +61,7 @@ Civil Engineer & Data Analyst
 - GIS-Based Network Analysis for the national road network (Brazil).
 
 `2004-2005`
-**Telecommmunications Technician (intern)**, *Alcatel-Lucent Enterprise, Brazil.
+**Telecommmunications Technician (intern)**, *Alcatel-Lucent Enterprise, Brazil.*
 - Training for telecommunications technician
 - Assignments in the infrastructure field
 
