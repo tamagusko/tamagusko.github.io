@@ -47,18 +47,18 @@ Python, Matlab.
 `2010-2018`
 **Civil Engineer | Researcher**, *LabTrans, Brazil.*  
 (4yr. intern and 5yr. Engineer/Researcher)  
-Technical studies and development of projects for weigh-in-motion systems;
-Engineering economics, cost-benefit and life-cycle analysis of pavements;
-Transport infrastructures, maintenance and rehabilitation management;
-Design and Construction of continuously reinforced concrete pavement;
-Design and construction of asphalt pavement;
+Technical studies and development of projects for weigh-in-motion systems;  
+Engineering economics, cost-benefit and life-cycle analysis of pavements;  
+Transport infrastructures, maintenance and rehabilitation management;  
+Design and Construction of continuously reinforced concrete pavement;  
+Design and construction of asphalt pavement;  
 GIS-Based Network Analysis for the national road network (Brazil).
 
 `2004-2005`
 **Telecommmunications Technician**, *Alcatel-Lucent Enterprise, Brazil.*  
 (intern)  
-Training for telecommunications technician
-Assignments in the infrastructure field
+Training for telecommunications technician;  
+Assignments in the infrastructure field.
 
 <!-- This is commented out.
 ## Publications
