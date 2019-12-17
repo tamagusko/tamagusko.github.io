@@ -3,7 +3,7 @@ layout: cv
 title: Tiago Tamagusko's CV
 ---
 # Tiago Tamagusko
-Civil Engineer & Data Analyst  
+**Civil Engineer & Data Analyst**
 
 - 5+ years of experience as a civil engineer in the transportation area;
 - Seeking to develop and apply multidisciplinary skills to solve complex problems;
@@ -32,37 +32,37 @@ Civil Engineer & Data Analyst
 **Computer Network Technician**, *Federal Institute of Santa Catarina*, Brazil.    
 
 ## Skills
-- Complex problem solving;
-- Critical and analytical thinking;
-- Passion for learning;
-- Flexibility and adaptability;
-- Programming Language &ndash; Python, Matlab, SQL;
-- Data Analysis (Python, SQL, Excel).
+Complex problem solving;
+Critical and analytical thinking;
+Passion for learning;
+Flexibility and adaptability;
+Programming Language &ndash; Python, Matlab, SQL;
+Data Analysis (Python, SQL, Excel).
 
 ## Tools
-- Autocad, ArcGIS, QGIS;
-- SQL, PostgreSQL;
-- Advanced in MS Excel;
-- PTV-Vissum, Aimsun;
-- HDM-4, FAARFIELD;
-- Python, Matlab.
+Autocad, ArcGIS, QGIS;
+SQL, PostgreSQL;
+Advanced in MS Excel;
+PTV-Vissum, Aimsun;
+HDM-4, FAARFIELD;
+Python, Matlab.
 
 ## Experience
 
 `2010-2018`
 **Civil Engineer | Researcher**, *LabTrans, Brazil.*  
 *(4yr. intern and 5yr. Engineer/Researcher)*   
-- Technical studies and development of projects for weigh-in-motion systems;
-- Engineering economics, cost-benefit and life-cycle analysis of pavements;
-- Transport infrastructures, maintenance and rehabilitation management;
-- Design and Construction of continuously reinforced concrete pavement;
-- Design and construction of asphalt pavement;
-- GIS-Based Network Analysis for the national road network (Brazil).
+Technical studies and development of projects for weigh-in-motion systems;
+Engineering economics, cost-benefit and life-cycle analysis of pavements;
+Transport infrastructures, maintenance and rehabilitation management;
+Design and Construction of continuously reinforced concrete pavement;
+Design and construction of asphalt pavement;
+GIS-Based Network Analysis for the national road network (Brazil).
 
 `2004-2005`
 **Telecommmunications Technician (intern)**, *Alcatel-Lucent Enterprise, Brazil.*
-- Training for telecommunications technician
-- Assignments in the infrastructure field
+Training for telecommunications technician
+Assignments in the infrastructure field
 
 <!-- This is commented out.
 ## Publications
