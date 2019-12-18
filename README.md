@@ -32,7 +32,7 @@ Critical and analytical thinking;
 Passion for learning;  
 Flexibility and adaptability;  
 Programming Language &ndash; Python, Matlab, SQL;  
-Data Analysis (Python, SQL, Excel).
+Data Analysis &ndash; Python, SQL, Excel.
 
 ## Tools
 Autocad, ArcGIS, QGIS;  
