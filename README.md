@@ -95,6 +95,6 @@ Tamagusko T., Ferreira A. Software Tools for Airport Pavement Design. *WorldCist
 Tamagusko T., Ferreira A. Métodos de Dimensionamento de Pavimentos de Aeroportos e Aeródromos. *9CongressoLuso-MocambicanoDeEngenharia*, in revision.
  -->
 
-<br>Last updated: December 17, 2019<br/><br/>
+<br>Last updated: January 1, 2020<br/><br/>
 
 [Hosted on GitHub Pages — Theme by Dave Whipp](https://github.com/davewhipp/markdown-cv)
