@@ -67,7 +67,7 @@ Assignments in the infrastructure field.
 ## Projects
 
 `2019`
-**Studies for the Viseu Airport Runway**, *Coimbra University, Portugal.**  
+**Studies for the Viseu Airport Runway**, *Coimbra University, Portugal.*  
 (Student)  
 Data analysis study for the design of the Viseu Airport runway.
 
