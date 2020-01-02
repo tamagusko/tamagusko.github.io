@@ -64,13 +64,41 @@ GIS-Based Network Analysis for the national road network (Brazil).
 Training for telecommunications technician;  
 Assignments in the infrastructure field.
 
+## Projects
+
+`2019`
+**Studies for the Viseu Airport Runway**, *Coimbra University, Portugal.**  
+(Student)  
+Data analysis study for the design of the Viseu Airport runway.
+
+More: https://github.com/tamagusko/ViseuAirportStudy
+
+`2018-2019`
+**Application of AI and ML for the OPorto Metro**, *Coimbra University, Portugal.*  
+(Student)  
+Use of machine learning to predict OPorto Metro validations;  
+Application of unsupervised machine learning technique (K-means algorithm);  
+Application of supervised machine learning technique (Decision tree algorithm).
+
+`2018`
+**Traffic Simulation**, *Coimbra University, Portugal.*  
+(Student)  
+PTV-Visum application to create a traffic simulation for the southern part of the city Coimbra.
+
+`2013-2015`
+**Development of new technologies for HS-WIM**, *LabTrans, Brazil.*  
+(Researcher)  
+Development of a new High-Speed-Weigh-In-Motion (HS-WIM) model.
+
+More: https://www.labtrans.ufsc.br/en/modelo-de-posto-integrado-automatizado-de-fiscalizacao-piaf-do-dnit/
+
 <!-- This is commented out.
 ## Publications
 ### In revision
 Tamagusko T., Ferreira A. Software Tools for Airport Pavement Design. *WorldCist'20*, in revision.  
 Tamagusko T., Ferreira A. Métodos de Dimensionamento de Pavimentos de Aeroportos e Aeródromos. *9CongressoLuso-MocambicanoDeEngenharia*, in revision.
  -->
-
-<br/>Last updated: December 17, 2019<br/><br/>
+ 
+<br>Last updated: January 1, 2020<br/><br/>
 
 [Hosted on GitHub Pages — Theme by Dave Whipp](https://github.com/davewhipp/markdown-cv)
