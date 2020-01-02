@@ -71,7 +71,7 @@ Assignments in the infrastructure field.
 (Student)  
 Data analysis study for the design of the Viseu Airport runway.
 
-More: https://github.com/tamagusko/ViseuAirportStudy
+More: [github.com/tamagusko/ViseuAirportStudy](https://github.com/tamagusko/ViseuAirportStudy)
 
 `2018-2019`
 **Application of AI and ML for the OPorto Metro**, *Coimbra University, Portugal.*  
@@ -90,7 +90,7 @@ PTV-Visum application to create a traffic simulation for the southern part of th
 (Researcher)  
 Development of a new High-Speed-Weigh-In-Motion (HS-WIM) model.
 
-More: https://www.labtrans.ufsc.br/en/modelo-de-posto-integrado-automatizado-de-fiscalizacao-piaf-do-dnit/
+More: [LabTrans Project Site](https://www.labtrans.ufsc.br/en/modelo-de-posto-integrado-automatizado-de-fiscalizacao-piaf-do-dnit/)
 
 <!-- This is commented out.
 ## Publications
