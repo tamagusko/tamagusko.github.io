@@ -38,7 +38,7 @@ Data Analysis &ndash; Python, SQL, Excel.
 Autocad, ArcGIS, QGIS;  
 SQL, PostgreSQL;  
 Advanced in MS Excel;  
-PTV-Visum,HDM-4, FAARFIELD;  
+PTV-Visum, HDM-4, FAARFIELD;  
 Python, Matlab.
 
 ## Experience
