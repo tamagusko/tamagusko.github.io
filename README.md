@@ -48,7 +48,7 @@ Python, Matlab.
 (4yr. intern and 5yr. Engineer/Researcher)  
 Technical studies and development of projects for weigh-in-motion systems;  
 Engineering economics, cost-benefit and life-cycle analysis of pavements;  
-Transport infrastructures, maintenance and rehabilitation management;  
+Implementation of ITS technologies for real-time highway monitoring;
 Design and Construction of continuously reinforced concrete pavement;  
 Design and construction of asphalt pavement;  
 GIS-Based Network Analysis for the national road network (Brazil).
@@ -94,6 +94,6 @@ Tamagusko T., Ferreira A. Software Tools for Airport Pavement Design. *WorldCist
 Tamagusko T., Ferreira A. Métodos de Dimensionamento de Pavimentos de Aeroportos e Aeródromos. *9CongressoLuso-MocambicanoDeEngenharia*, in revision.
  -->
 
-<br>Last updated: January 1, 2020<br/><br/>
+<br>Last updated: January 13, 2020<br/><br/>
 
 [Hosted on GitHub Pages — Theme by Dave Whipp](https://github.com/davewhipp/markdown-cv)
