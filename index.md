@@ -7,7 +7,7 @@ Civil Engineer & Data Analyst
 
 - 5+ years of experience as a civil engineer in the transportation area;
 - Seeking to develop and apply multidisciplinary skills to solve complex problems;
-- Enthusiast of AI, programming, and technology.<br/>
+- Enthusiast of AI, programming, and active mobility.<br/>
 
 <div id="webaddress">
   <a href="https://tamagusko.github.io"><i class="fas fa-home"></i> tamagusko.github.io</a> - 
@@ -52,7 +52,7 @@ Python, Matlab.
 (4yr. Intern and 5yr. Engineer/Researcher)  
 Technical studies and development of projects for weigh-in-motion systems;  
 Engineering economics, cost-benefit and life-cycle analysis of pavements;  
-Transport infrastructures, maintenance and rehabilitation management;  
+Implementation of ITS technologies for real-time highway monitoring;  
 Design and Construction of continuously reinforced concrete pavement;  
 Design and construction of asphalt pavement;  
 GIS-Based Network Analysis for the national road network (Brazil).
