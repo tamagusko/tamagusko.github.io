@@ -48,7 +48,7 @@ Python, Matlab.
 (4yr. intern and 5yr. Engineer/Researcher)  
 Technical studies and development of projects for weigh-in-motion systems;  
 Engineering economics, cost-benefit and life-cycle analysis of pavements;  
-Implementation of ITS technologies for real-time highway monitoring;
+Implementation of ITS technologies for real-time highway monitoring;  
 Design and Construction of continuously reinforced concrete pavement;  
 Design and construction of asphalt pavement;  
 GIS-Based Network Analysis for the national road network (Brazil).
