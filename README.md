@@ -20,10 +20,10 @@ Civil Engineer & Data Analyst
 `2008-2013`
 **B.Sc., Civil Engineering**, *Federal University of Santa Catarina*, Brazil.  
 
-`2004-2005`
+`2003-2004`
 **Tech., Telecommunications**, *Federal Institute of Santa Catarina*, Brazil.  
 
-`2003-2004`
+`2002-2003`
 **Tech., Computer Network**, *Federal Institute of Santa Catarina*, Brazil.    
 
 ## Skills
@@ -43,7 +43,7 @@ Python, Matlab.
 
 ## Experience
 
-`2010-2018`
+`2009-2018`
 **Civil Engineer | Researcher**, *LabTrans, Brazil.*  
 (4yr. intern and 5yr. Engineer/Researcher)  
 Technical studies and development of projects for weigh-in-motion systems;  
@@ -53,7 +53,7 @@ Design and Construction of continuously reinforced concrete pavement;
 Design and construction of asphalt pavement;  
 GIS-Based Network Analysis for the national road network (Brazil).
 
-`2005-2006`
+`2004-2005`
 **Telecommmunications Technician**, *Alcatel-Lucent Enterprise, Brazil.*  
 (intern)  
 Training for telecommunications technician;  
