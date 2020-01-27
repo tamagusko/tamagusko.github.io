@@ -24,7 +24,7 @@ Civil Engineer & Data Analyst
 `2008-2013`
 **B.Sc., Civil Engineering**, *Federal University of Santa Catarina*, Brazil.  
 
-`2005`
+`2004-2005`
 **Tech., Telecommunications**, *Federal Institute of Santa Catarina*, Brazil.  
 
 `2003-2004`
@@ -57,7 +57,7 @@ Design and Construction of continuously reinforced concrete pavement;
 Design and construction of asphalt pavement;  
 GIS-Based Network Analysis for the national road network (Brazil).
 
-`2004-2005`
+`2005-2006`
 **Telecommmunications Technician**, *Alcatel-Lucent Enterprise, Brazil.*  
 (Intern)  
 Training for telecommunications technician;  
