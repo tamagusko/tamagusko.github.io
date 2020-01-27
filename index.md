@@ -93,7 +93,7 @@ More: [LabTrans Project Site](https://www.labtrans.ufsc.br/en/modelo-de-posto-in
 
 ## Publications
 ### Submitted
-Tamagusko, T. and Ferreira, A. (2020). Software Tools for Airport Pavement Design, Proceedings of the 8thWorld Conference on Information Systems and Technologies, Budva, Montenegro.
+Tamagusko, T. and Ferreira, A. (2020). Software Tools for Airport Pavement Design, Proceedings of the 8th World Conference on Information Systems and Technologies, Budva, Montenegro.
 
 Tamagusko, T. and Ferreira, A. (2020). Data Analysis applied to the Airport Pavement Design, Proceedings of the 6th International Conference on Road and Rail Infrastructure, Pula, Croatia.
  
