@@ -91,13 +91,12 @@ Development of a new High-Speed-Weigh-In-Motion (HS-WIM) model.
 
 More: [LabTrans Project Site](https://www.labtrans.ufsc.br/en/modelo-de-posto-integrado-automatizado-de-fiscalizacao-piaf-do-dnit/)
 
-<!-- This is commented out.
 ## Publications
-### In revision
-Tamagusko T., Ferreira A. Software Tools for Airport Pavement Design. *WorldCist'20*, in revision.  
-Tamagusko T., Ferreira A. Métodos de Dimensionamento de Pavimentos de Aeroportos e Aeródromos. *9CongressoLuso-MocambicanoDeEngenharia*, in revision.
- -->
+### Submitted
+Tamagusko, T. and Ferreira, A. (2020). Software Tools for Airport Pavement Design, Proceedings of the 8thWorld Conference on Information Systems and Technologies, Budva, Montenegro.
+
+Tamagusko, T. and Ferreira, A. (2020). Data Analysis applied to the Airport Pavement Design, Proceedings of the 6th International Conference on Road and Rail Infrastructure, Pula, Croatia.
  
-<br>Last updated: January 1, 2020<br/><br/>
+<br>Last updated: January 27, 2020<br/><br/>
 
 [Hosted on GitHub Pages — Theme by Dave Whipp](https://github.com/davewhipp/markdown-cv)
