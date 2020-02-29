@@ -19,7 +19,7 @@ Civil Engineer & Data Analyst
 ## Education
 
 `2018-2020`
-**M.Sc., Urban Mobility Management | in progress**, *University of Coimbra*, Portugal.
+**M.Sc., Urban Mobility Management**, *University of Coimbra*, Portugal.
 
 `2008-2013`
 **B.Sc., Civil Engineering**, *Federal University of Santa Catarina*, Brazil.  
@@ -60,7 +60,6 @@ GIS-Based Network Analysis for the national road network (Brazil).
 `2004-2005`
 **Telecommmunications Technician**, *Alcatel-Lucent Enterprise, Brazil.*  
 (Intern)  
-Training for telecommunications technician;  
 Assignments in the infrastructure field.
 
 ## Projects
