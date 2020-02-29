@@ -15,7 +15,7 @@ Civil Engineer & Data Analyst
 ## Education
 
 `2018-2020`
-**M.Sc., Urban Mobility Management | in progress**, *University of Coimbra*, Portugal.
+**M.Sc., Urban Mobility Management**, *University of Coimbra*, Portugal.
 
 `2008-2013`
 **B.Sc., Civil Engineering**, *Federal University of Santa Catarina*, Brazil.  
@@ -55,8 +55,7 @@ GIS-Based Network Analysis for the national road network (Brazil).
 
 `2004-2005`
 **Telecommmunications Technician**, *Alcatel-Lucent Enterprise, Brazil.*  
-(intern)  
-Training for telecommunications technician;  
+(intern)
 Assignments in the infrastructure field.
 
 ## Projects
@@ -93,6 +92,6 @@ Tamagusko, T. and Ferreira, A. (2020). Software Tools for Airport Pavement Desig
 
 Tamagusko, T. and Ferreira, A. (2020). Data Analysis applied to the Airport Pavement Design, Proceedings of the 6th International Conference on Road and Rail Infrastructure, Pula, Croatia.
 
-<br>Last updated: January 27, 2020<br/><br/>
+<br>Last updated: February 29, 2020<br/><br/>
 
 [Hosted on GitHub Pages — Theme by Dave Whipp](https://github.com/davewhipp/markdown-cv)
