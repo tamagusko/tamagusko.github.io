@@ -55,7 +55,7 @@ GIS-Based Network Analysis for the national road network (Brazil).
 
 `2004-2005`
 **Telecommmunications Technician**, *Alcatel-Lucent Enterprise, Brazil.*  
-(Telecommunications technician)
+(Telecommunications technician)  
 Assignments in the infrastructure field.
 
 ## Projects
