@@ -10,7 +10,7 @@ Civil Engineer & Data Analyst
   <a href="https://github.com/tamagusko"><i class="fab fa-github"></i> tamagusko</a> - 
   <a href="https://www.linkedin.com/in/tamagusko/"><i class="fab fa-linkedin"></i> @tamagusko</a> -
   <a href="mailto:tamagusko@gmail.com/"><i class="fas fa-envelope"></i> tamagusko@gmail.com</a> -
-  <a href="https://orcid.org/0000-0003-0502-6472"><i class="fab fa-orcid"></i> ORCID</a>
+  <a href="https://orcid.org/0000-0003-0502-6472"><i class="fab fa-orcid"></i> orcid.org/0000-0003-0502-6472</a>
 </div>
 
 ## Education
