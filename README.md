@@ -9,7 +9,8 @@ Civil Engineer & Data Analyst
   <a href="https://tamagusko.github.io"><i class="fas fa-home"></i> tamagusko.github.io</a> - 
   <a href="https://github.com/tamagusko"><i class="fab fa-github"></i> tamagusko</a> - 
   <a href="https://www.linkedin.com/in/tamagusko/"><i class="fab fa-linkedin"></i> @tamagusko</a> -
-  <a href="mailto:tamagusko@gmail.com/"><i class="fas fa-envelope"></i> tamagusko@gmail.com</a>
+  <a href="mailto:tamagusko@gmail.com/"><i class="fas fa-envelope"></i> tamagusko@gmail.com</a> -
+  <a href="https://orcid.org/0000-0003-0502-6472"><i class="fab fa-orcid"></i> ORCID</a>
 </div>
 
 ## Education
@@ -92,6 +93,6 @@ Tamagusko, T. and Ferreira, A. (2020). Software Tools for Airport Pavement Desig
 
 Tamagusko, T. and Ferreira, A. (2020). Data Analysis applied to the Airport Pavement Design, Proceedings of the 6th International Conference on Road and Rail Infrastructure, Pula, Croatia.
 
-<br>Last updated: March 09, 2020<br/><br/>
+<br>Last updated: March 10, 2020<br/><br/>
 
 [Hosted on GitHub Pages — Theme by Dave Whipp](https://github.com/davewhipp/markdown-cv)
