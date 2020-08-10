@@ -27,6 +27,11 @@ Civil Engineer & Data Analyst
 `2002-2003`
 **Tech., Computer Network**, *Federal Institute of Santa Catarina*, Brazil.    
 
+## Courses
+
+`2020`
+**Machine Learning**, *Coursera | Stanford Online, 11 weeks*.
+
 ## Skills
 Complex problem solving;  
 Critical and analytical thinking;  
