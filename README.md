@@ -97,6 +97,8 @@ Tamagusko, T. and Ferreira, A. (2020). **Software Tools for Airport Pavement Des
 
 Tamagusko, T. (2020). **Airport Pavement Design**. DOI: https://doi.org/10.13140/RG.2.2.19628.00640
 
+Guerson, L. P.; Gevaerd, B. M.; Otto, G. G.; Tamagusko, T.; Valente, A. M. (2016). **Test Site for Evaluation of High-Speed WIM and ITS Solutions in Brazilian Conditions**. In: ICWIM7 Proceedings, 2016.
+
 ### Submitted
 Tamagusko, T. and Ferreira, A. (2021). **Mobility patterns of the Portuguese population during the COVID-19 pandemic**, Proceedings of the 2021 International Conference on Information Technology & Systems, Libertad city, Ecuador.
 
