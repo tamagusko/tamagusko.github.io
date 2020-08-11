@@ -6,8 +6,9 @@ Civil Engineer & Data Analyst
 - Enthusiast of AI, programming, and technology.<br/>
 
 <div id="webaddress">
-  <a href="mailto:tamagusko@gmail.com/"><i class="fas fa-envelope"></i> tamagusko@gmail.com</a>  
-  <a href="https://orcid.org/0000-0003-0502-6472"><i class="fab fa-orcid"></i> orcid.org/0000-0003-0502-6472</a>
+  <a href="mailto:tamagusko@gmail.com/">tamagusko@gmail.com</a><br>
+  <a href="https://www.linkedin.com/in/tamagusko/">https://www.linkedin.com/in/tamagusko/</a><br>
+  <a href="https://orcid.org/0000-0003-0502-6472">orcid.org/0000-0003-0502-6472</a>
 </div>
 
 ## Education
