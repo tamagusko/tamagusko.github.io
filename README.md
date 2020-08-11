@@ -6,10 +6,7 @@ Civil Engineer & Data Analyst
 - Enthusiast of AI, programming, and technology.<br/>
 
 <div id="webaddress">
-  <a href="https://tamagusko.github.io"><i class="fas fa-home"></i> tamagusko.github.io</a> - 
-  <a href="https://github.com/tamagusko"><i class="fab fa-github"></i> tamagusko</a> - 
-  <a href="https://www.linkedin.com/in/tamagusko/"><i class="fab fa-linkedin"></i> @tamagusko</a> -
-  <a href="mailto:tamagusko@gmail.com/"><i class="fas fa-envelope"></i> tamagusko@gmail.com</a> -
+  <a href="mailto:tamagusko@gmail.com/"><i class="fas fa-envelope"></i> tamagusko@gmail.com</a>  
   <a href="https://orcid.org/0000-0003-0502-6472"><i class="fab fa-orcid"></i> orcid.org/0000-0003-0502-6472</a>
 </div>
 
