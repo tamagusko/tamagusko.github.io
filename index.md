@@ -125,6 +125,6 @@ Guerson, L. P.; Gevaerd, B. M.; Otto, G. G.; **Tamagusko, T.**; Valente, A. M. (
 `2020`
 **Tamagusko, T.** and Ferreira, A. (2020). **Data Analysis applied to Airport Pavement Design**, Proceedings of the 6th International Conference on Road and Rail Infrastructure, Pula, Croatia.
  
-<br>Last updated: August 10, 2020<br/><br/>
+<br>Last updated: August 11, 2020<br/><br/>
 
 [Hosted on GitHub Pages — Theme by Dave Whipp](https://github.com/davewhipp/markdown-cv)
