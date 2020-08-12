@@ -17,12 +17,17 @@ Civil Engineer & Data Analyst
 </div>
 
 ## Education
+`2020`
+**PhD., Transport Systems**, *University of Coimbra*, Portugal.
+(In progress)
 
 `2018-2020`
-**M.Sc., Urban Mobility Management**, *University of Coimbra*, Portugal.
+**M.Sc., Urban Mobility Management**, *University of Coimbra*, Portugal.  
+Master dissertation: "Airport Pavement Design"
 
 `2008-2013`
 **B.Sc., Civil Engineering**, *Federal University of Santa Catarina*, Brazil.  
+Final Project: "Cost of Lack of Standardization of Railway Gauges in Brazil" (in Portuguese)
 
 `2003-2004`
 **Tech., Telecommunications**, *Federal Institute of Santa Catarina*, Brazil.  
@@ -105,6 +110,9 @@ More: [LabTrans Project Site](https://www.labtrans.ufsc.br/en/modelo-de-posto-in
 
 `2016`
 Guerson, L. P.; Gevaerd, B. M.; Otto, G. G.; **Tamagusko, T.**; Valente, A. M. (2016). **Test Site for Evaluation of High-Speed WIM and ITS Solutions in Brazilian Conditions**. In: ICWIM7 Proceedings, 2016.
+
+`2013`
+**Tamagusko, T.** (2013). **Cost of Lack of Standardization of Railway Gauges in Brazil**. (in Portuguese)
 
 ### Submitted
 
