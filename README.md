@@ -107,6 +107,9 @@ More: https://www.labtrans.ufsc.br/en/modelo-de-posto-integrado-automatizado-de-
 `2016`
 Guerson, L. P.; Gevaerd, B. M.; Otto, G. G.; **Tamagusko, T.**; Valente, A. M. (2016). **Test Site for Evaluation of High-Speed WIM and ITS Solutions in Brazilian Conditions**. In: ICWIM7 Proceedings, 2016.
 
+`2013`
+**Tamagusko, T.** (2013). **Cost of Lack of Standardization of Railway Gauges in Brazil**. (in Portuguese)
+
 ### Submitted
 
 `2020`
