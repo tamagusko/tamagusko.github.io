@@ -13,12 +13,17 @@ Civil Engineer & Data Analyst
 </div>
 
 ## Education
+`2020`
+**PhD., Transport Systems**, *University of Coimbra*, Portugal.
+(In progress)
 
 `2018-2020`
-**M.Sc., Urban Mobility Management**, *University of Coimbra*, Portugal.
+**M.Sc., Urban Mobility Management**, *University of Coimbra*, Portugal.  
+Master dissertation: "Airport Pavement Design"
 
 `2008-2013`
 **B.Sc., Civil Engineering**, *Federal University of Santa Catarina*, Brazil.  
+Final Project: "Cost of Lack of Standardization of Railway Gauges in Brazil" (in Portuguese)
 
 `2003-2004`
 **Tech., Telecommunications**, *Federal Institute of Santa Catarina*, Brazil.  
