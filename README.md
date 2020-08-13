@@ -3,7 +3,7 @@ Civil Engineer & Data Analyst
 
 - 5+ years of experience as a civil engineer in the transportation area;
 - Seeking to develop and apply multidisciplinary skills to solve complex problems;
-- Enthusiast of AI, programming, and technology.<br/>
+- Enthusiast of AI, programming, technology, and active mobility.<br/>
 
 <div id="webaddress">
   <a href="https://tamagusko.github.io"><i class="fas fa-home"></i> tamagusko.github.io</a> - 
@@ -60,7 +60,7 @@ Training for the Junior Enterprise for Science and Technology (JEST) IT group. R
 
 `2009-2018`
 **Civil Engineer | Researcher**, *LabTrans, Brazil.*  
-(4yr. intern and 5yr. Engineer/Researcher)  
+(4yr. Intern and 5yr. Engineer/Researcher)  
 Technical studies and development of projects for weigh-in-motion systems;  
 Engineering economics, cost-benefit and life-cycle analysis of pavements;  
 Implementation of ITS technologies for real-time highway monitoring;  
@@ -70,7 +70,7 @@ GIS-Based Network Analysis for the national road network (Brazil).
 
 `2004-2005`
 **Telecommmunications Technician**, *Alcatel-Lucent Enterprise, Brazil.*  
-(Telecommunications technician)  
+(Telecommunications Technician)  
 Assignments in the infrastructure field.
 
 ## Projects
@@ -107,7 +107,7 @@ PTV-Visum application to create a traffic simulation for the southern part of th
 (Researcher)  
 Development of a new High-Speed-Weigh-In-Motion (HS-WIM) model.
 
-More: https://www.labtrans.ufsc.br/en/modelo-de-posto-integrado-automatizado-de-fiscalizacao-piaf-do-dnit/
+More: <a href="https://www.labtrans.ufsc.br/en/modelo-de-posto-integrado-automatizado-de-fiscalizacao-piaf-do-dnit/"> PIAF Project (LabTrans)</a>
 
 ## Publications
 
