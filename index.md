@@ -10,10 +10,10 @@ Civil Engineer & Data Analyst
 - Enthusiast of AI, programming, technology, and active mobility.<br/>
 
 <div id="webaddress">
-  <a href="https://tamagusko.github.io"><i class="fas fa-home"></i> tamagusko.github.io</a> - 
-  <a href="https://github.com/tamagusko"><i class="fab fa-github"></i> github.com/tamagusko</a> - 
-  <a href="https://www.linkedin.com/in/tamagusko/"><i class="fab fa-linkedin"></i> @tamagusko</a> -
-  <a href="mailto:tamagusko@gmail.com/"><i class="fas fa-envelope"></i> tamagusko@gmail.com</a>
+  <a href="https://tamagusko.github.io" target="_blank"><i class="fas fa-home"></i> tamagusko.github.io</a> - 
+  <a href="https://github.com/tamagusko" target="_blank"><i class="fab fa-github"></i> github.com/tamagusko</a> - 
+  <a href="https://www.linkedin.com/in/tamagusko/" target="_blank"><i class="fab fa-linkedin"></i> @tamagusko</a> -
+  <a href="mailto:tamagusko@gmail.com/" target="_blank"><i class="fas fa-envelope"></i> tamagusko@gmail.com</a>
 </div>
 
 ## Education
@@ -85,14 +85,14 @@ Assignments in the infrastructure field.
 Initiation Project for the first semester of 2020 by Junior Enterprise for Science and Technology (JEST).  
 Assignments in the IT area, Data Scientist.
 
-More: https://github.com/tamagusko/jest20201
+More: <a href="https://github.com/tamagusko/jest20201" target="_blank">https://github.com/tamagusko/jest20201</a>
 
 `2019`
 **Studies for the Viseu Airport Runway**, *Coimbra University, Portugal.*  
 (Student)  
 Data analysis study for the design of the Viseu Airport runway.
 
-More: https://github.com/tamagusko/ViseuAirportStudy
+More: <a href="https://github.com/tamagusko/ViseuAirportStudy/" target="_blank">https://github.com/tamagusko/ViseuAirportStudy</a> 
 
 `2018-2019`
 **Application of AI and ML for the OPorto Metro**, *Coimbra University, Portugal.*  
@@ -111,21 +111,21 @@ PTV-Visum application to create a traffic simulation for the southern part of th
 (Researcher)  
 Development of a new High-Speed-Weigh-In-Motion (HS-WIM) model.
 
-More: <a href="https://www.labtrans.ufsc.br/en/modelo-de-posto-integrado-automatizado-de-fiscalizacao-piaf-do-dnit/"> PIAF Project (LabTrans)</a>
+More: <a href="https://www.labtrans.ufsc.br/en/modelo-de-posto-integrado-automatizado-de-fiscalizacao-piaf-do-dnit/" target="_blank"> PIAF Project (LabTrans)</a>
 
 ## Publications
 
 `2020`
-**Tamagusko, T.** and Ferreira, A. (2020). **Software Tools for Airport Pavement Design**. In: Rocha Á., Adeli H., Reis L., Costanzo S., Orovic I., Moreira F. (eds) Trends and Innovations in Information Systems and Technologies. WorldCIST 2020. Advances in Intelligent Systems and Computing, vol 1160. Springer. DOI: https://doi.org/10.1007/978-3-030-45691-7_7
+**Tamagusko, T.** and Ferreira, A. (2020). **Software Tools for Airport Pavement Design**. In: Rocha Á., Adeli H., Reis L., Costanzo S., Orovic I., Moreira F. (eds) Trends and Innovations in Information Systems and Technologies. WorldCIST 2020. Advances in Intelligent Systems and Computing, vol 1160. Springer. DOI: <a href="https://doi.org/10.1007/978-3-030-45691-7_7" target="_blank">https://doi.org/10.1007/978-3-030-45691-7_7</a>
 
 `2020`
-**Tamagusko, T.** (2020). **Airport Pavement Design**. DOI: https://doi.org/10.13140/RG.2.2.19628.00640
+**Tamagusko, T.** (2020). **Airport Pavement Design**. DOI: <a href="https://doi.org/10.13140/RG.2.2.19628.00640" target="_blank">https://doi.org/10.13140/RG.2.2.19628.00640</a>
 
 `2016`
 Guerson, L. P.; Gevaerd, B. M.; Otto, G. G.; **Tamagusko, T.**; Valente, A. M. (2016). **Test Site for Evaluation of High-Speed WIM and ITS Solutions in Brazilian Conditions**. In: ICWIM7 Proceedings, 2016.
 
 `2013`
-**Tamagusko, T.** (2013). **Cost of Lack of Standardization of Railway Gauges in Brazil**. (in Portuguese) DOI: https://doi.org/10.13140/RG.2.2.14193.10089
+**Tamagusko, T.** (2013). **Cost of Lack of Standardization of Railway Gauges in Brazil**. (in Portuguese) DOI: <a href="https://doi.org/10.13140/RG.2.2.14193.10089" target="_blank">https://doi.org/10.13140/RG.2.2.14193.10089</a>
 
 ### Submitted
 
@@ -136,4 +136,4 @@ Guerson, L. P.; Gevaerd, B. M.; Otto, G. G.; **Tamagusko, T.**; Valente, A. M. (
 **Tamagusko, T.** and Ferreira, A. (2020). **Métodos de Dimensionamento de Pavimentos Aeroportuários**, Proceedings of the 9th Congresso Luso Moçambicano de Engenharia, Maputo, Moçambique. (In Portuguese)
 
 `2020`
-**Tamagusko, T.** and Ferreira, A. (2020). **Data Analysis applied to Airport Pavement Design**, Proceedings of the 6th International Conference on Road and Rail Infrastructure, Pula, Croatia.
+**Tamagusko, T.** and Ferreira, A. (2020). **Data Analysis applied to Airport Pavement Design**, Proceedings of the 6th International Conference on Road and Rail Infrastructure, Pula, Croatia..
