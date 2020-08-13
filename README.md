@@ -53,6 +53,11 @@ Python, Matlab.
 
 ## Experience
 
+`2020` (In progress)
+**Data Scientist**, *JEST, Portugal.*  
+(Intern)  
+Training for the Junior Enterprise for Science and Technology (JEST) IT group. Role of Data Scientist.
+
 `2009-2018`
 **Civil Engineer | Researcher**, *LabTrans, Brazil.*  
 (4yr. intern and 5yr. Engineer/Researcher)  
@@ -69,6 +74,14 @@ GIS-Based Network Analysis for the national road network (Brazil).
 Assignments in the infrastructure field.
 
 ## Projects
+
+`2020`
+**JEST 2020/1 IT Initiation Project**, *JEST, Portugal.*  
+(Data Scientist Intern)  
+Initiation Project for the first semester of 2020 by Junior Enterprise for Science and Technology (JEST).  
+Assignments in the IT area, Data Scientist.
+
+More: https://github.com/tamagusko/jest20201
 
 `2019`
 **Studies for the Viseu Airport Runway**, *Coimbra University, Portugal.*  
@@ -120,5 +133,3 @@ Guerson, L. P.; Gevaerd, B. M.; Otto, G. G.; **Tamagusko, T.**; Valente, A. M. (
 
 `2020`
 **Tamagusko, T.** and Ferreira, A. (2020). **Data Analysis applied to Airport Pavement Design**, Proceedings of the 6th International Conference on Road and Rail Infrastructure, Pula, Croatia.
-
-<br>Last updated: August 11, 2020<br/><br/>
