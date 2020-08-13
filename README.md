@@ -54,7 +54,7 @@ Python, Matlab.
 ## Experience
 
 `2020`
-**Data Scientist**, *JEST, Portugal.* (In progress)  
+**Data Scientist Intern**, *JEST, Portugal.* (In progress)  
 (Intern)  
 Training for the Junior Enterprise for Science and Technology (JEST) IT group. Role of Data Scientist.
 
