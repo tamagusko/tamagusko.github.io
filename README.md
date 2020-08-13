@@ -31,26 +31,6 @@ Final Project: "Cost of Lack of Standardization of Railway Gauges in Brazil" (in
 `2002-2003`
 **Tech., Computer Network**, *Federal Institute of Santa Catarina*, Brazil.    
 
-## Courses
-
-`2020`
-**Machine Learning**, *Coursera | Stanford Online, 11 weeks*.
-
-## Skills
-Complex problem solving;  
-Critical and analytical thinking;  
-Passion for learning;  
-Flexibility and adaptability;  
-Programming Language &ndash; Python, Matlab, SQL;  
-Data Analysis &ndash; Python, SQL, Excel.
-
-## Tools
-Autocad, ArcGIS, QGIS;  
-SQL, PostgreSQL;  
-Advanced in MS Excel;  
-HDM-4, FAARFIELD;  
-Python, Matlab.
-
 ## Experience
 
 `2020`
@@ -72,6 +52,32 @@ GIS-Based Network Analysis for the national road network (Brazil).
 **Telecommmunications Technician**, *Alcatel-Lucent Enterprise, Brazil.*  
 (Telecommunications Technician)  
 Assignments in the infrastructure field.
+
+## Courses
+
+`2020`
+**Machine Learning**, *Coursera | Stanford Online, 11 weeks*.
+
+`2016`
+**Theory and Practice of WIM Systems**, *FAPEU, Brazil, 10h*.
+ 
+`2014`
+**HDM4 Software Operation**, *FAPEU, Brazil, 40h*.
+
+## Skills
+Complex problem solving;  
+Critical and analytical thinking;  
+Passion for learning;  
+Flexibility and adaptability;  
+Programming Language &ndash; Python, Matlab, SQL;  
+Data Analysis &ndash; Python, SQL, Excel.
+
+## Tools
+Autocad, ArcGIS, QGIS;  
+SQL, PostgreSQL;  
+Advanced in MS Excel;  
+HDM-4, FAARFIELD;  
+Python, Matlab.
 
 ## Projects
 
