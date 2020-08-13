@@ -123,4 +123,4 @@ Guerson, L. P.; Gevaerd, B. M.; Otto, G. G.; **Tamagusko, T.**; Valente, A. M. (
 
 <br>Last updated: August 11, 2020<br/><br/>
 
-[Hosted on GitHub Pages — Theme by Dave Whipp](https://github.com/davewhipp/markdown-cv)
+[Theme by Dave Whipp](https://github.com/davewhipp/markdown-cv)
