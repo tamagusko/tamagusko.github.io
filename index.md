@@ -7,7 +7,7 @@ Civil Engineer & Data Analyst
 
 - 5+ years of experience as a civil engineer in the transportation area;
 - Seeking to develop and apply multidisciplinary skills to solve complex problems;
-- Enthusiast of AI, programming, and active mobility.<br/>
+- Enthusiast of AI, programming, technology, and active mobility.<br/>
 
 <div id="webaddress">
   <a href="https://tamagusko.github.io"><i class="fas fa-home"></i> tamagusko.github.io</a> - 
@@ -57,6 +57,11 @@ Python, Matlab.
 
 ## Experience
 
+`2020` (In progress)
+**Data Scientist**, *JEST, Portugal.*  
+(Intern)  
+Training for the Junior Enterprise for Science and Technology (JEST) IT group. Role of Data Scientist.
+
 `2009-2018`
 **Civil Engineer | Researcher**, *LabTrans, Brazil.*  
 (4yr. Intern and 5yr. Engineer/Researcher)  
@@ -74,18 +79,26 @@ Assignments in the infrastructure field.
 
 ## Projects
 
+`2020`
+**JEST 2020/1 IT Initiation Project**, *JEST, Portugal.*  
+(Data Scientist Intern)  
+Initiation Project for the first semester of 2020 by Junior Enterprise for Science and Technology (JEST).  
+Assignments in the IT area, Data Scientist.
+
+More: https://github.com/tamagusko/jest20201
+
 `2019`
 **Studies for the Viseu Airport Runway**, *Coimbra University, Portugal.*  
 (Student)  
 Data analysis study for the design of the Viseu Airport runway.
 
-More: [github.com/tamagusko/ViseuAirportStudy](https://github.com/tamagusko/ViseuAirportStudy)
+More: https://github.com/tamagusko/ViseuAirportStudy
 
 `2018-2019`
 **Application of AI and ML for the OPorto Metro**, *Coimbra University, Portugal.*  
 (Student)  
-Use of machine learning to predict OPorto Metro validations;  
-Application of unsupervised machine learning technique (K-means algorithm);  
+Use of machine learning to predict OPorto Metro validations;
+Application of unsupervised machine learning technique (K-means algorithm);
 Application of supervised machine learning technique (Decision tree algorithm).
 
 `2018`
@@ -98,7 +111,7 @@ PTV-Visum application to create a traffic simulation for the southern part of th
 (Researcher)  
 Development of a new High-Speed-Weigh-In-Motion (HS-WIM) model.
 
-More: [LabTrans Project Site](https://www.labtrans.ufsc.br/en/modelo-de-posto-integrado-automatizado-de-fiscalizacao-piaf-do-dnit/)
+More: <a href="https://www.labtrans.ufsc.br/en/modelo-de-posto-integrado-automatizado-de-fiscalizacao-piaf-do-dnit/"> PIAF Project (LabTrans)</a>
 
 ## Publications
 
