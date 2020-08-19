@@ -7,7 +7,7 @@ Civil Engineer & Data Analyst
 
 - 5+ years of experience as a civil engineer in the transportation area;
 - Seeking to develop and apply multidisciplinary skills to solve complex problems;
-- Enthusiast of AI, programming, technology, and active mobility.<br/>
+- Enthusiast of AI, programming, and active mobility.<br/>
 
 <div id="webaddress">
   <a href="https://tamagusko.github.io" target="_blank"><i class="fas fa-home"></i> tamagusko.github.io</a> - 
