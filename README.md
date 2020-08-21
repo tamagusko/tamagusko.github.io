@@ -19,11 +19,11 @@ Civil Engineer & Data Analyst
 
 `2018-2020`
 **M.Sc., Urban Mobility Management**, *University of Coimbra*, Portugal.  
-Master dissertation: "Airport Pavement Design"
+Master dissertation: <a href="https://doi.org/10.13140/RG.2.2.19628.00640" target="_blank">"Airport Pavement Design"</a>
 
 `2008-2013`
 **B.Sc., Civil Engineering**, *Federal University of Santa Catarina*, Brazil.  
-Final Project: "Cost of Lack of Standardization of Railway Gauges in Brazil" (in Portuguese)
+Final Project: <a href="https://doi.org/10.13140/RG.2.2.14193.10089" target="_blank">"Cost of Lack of Standardization of Railway Gauges in Brazil" (in Portuguese)</a>
 
 `2003-2004`
 **Tech., Telecommunications**, *Federal Institute of Santa Catarina*, Brazil.  
