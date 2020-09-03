@@ -35,7 +35,7 @@ Final Project: <a href="https://doi.org/10.13140/RG.2.2.14193.10089" target="_bl
 
 `2020`
 **Data Scientist**, *JEST, Portugal.* (In progress)   
-Data Scientist at Junior Enterprise for Science and Technology (JEST) IT group.
+Data Scientist at Junior Enterprise for Science and Technology (JEST).
 
 `2009-2018`
 **Civil Engineer | Researcher**, *LabTrans, Brazil.*  
