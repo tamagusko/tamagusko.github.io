@@ -135,7 +135,7 @@ Guerson, L. P.; Gevaerd, B. M.; Otto, G. G.; **Tamagusko, T.**; Valente, A. M. (
 ### Submitted
 
 `2020`
-**Tamagusko, T.** and Ferreira, A. (2021). **Mobility patterns of the Portuguese population during the COVID-19 pandemic**, Proceedings of the 2021 International Conference on Information Technology & Systems, Libertad city, Ecuador. ArXiv ID: https://arxiv.org/abs/2007.06506
+**Tamagusko, T.** and Ferreira, A. (2021). **Mobility patterns of the Portuguese population during the COVID-19 pandemic**, Proceedings of the 2021 International Conference on Information Technology & Systems, Libertad city, Ecuador. ArXiv ID: <a href="https://arxiv.org/abs/2007.06506" target="_blank">https://arxiv.org/abs/2007.06506</a> (preprint)
 
 `2020`
 **Tamagusko, T.** and Ferreira, A. (2020). **Métodos de Dimensionamento de Pavimentos Aeroportuários**, Proceedings of the 9th Congresso Luso Moçambicano de Engenharia, Maputo, Moçambique. (In Portuguese)
