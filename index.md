@@ -83,7 +83,7 @@ Advanced in MS Excel;
 HDM-4, FAARFIELD;  
 Python, R, Matlab;  
 Github; Jupyter, Colab, Heroku;  
-Agile, Scrum, Trello; Slack.
+Agile, Scrum, Trello, Slack.
 
 ## Projects
 
