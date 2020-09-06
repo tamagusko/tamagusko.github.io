@@ -68,16 +68,18 @@ Complex problem solving;
 Critical and analytical thinking;  
 Passion for learning;  
 Flexibility and adaptability;  
-Programming Language &ndash; Python, Matlab, SQL;  
-Data Analysis &ndash; Python, SQL, Excel.
+Programming Language &ndash; Python, R, Matlab, SQL;  
+Data Analysis &ndash; Python, SQL, GIS, Excel;  
+Machine Learning &ndash; Python, Scikit-learn.  
 
 ## Tools
 Autocad, ArcGIS, QGIS;  
 SQL, PostgreSQL;  
 Advanced in MS Excel;  
 HDM-4, FAARFIELD;  
-Python, R, Matlab.
-
+Python, R, Matlab;  
+Github; Jupyter, Colab, Heroku;  
+Agile, Scrum, Trello; Slack.
 ## Projects
 
 `2020`
