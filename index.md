@@ -82,7 +82,8 @@ SQL, PostgreSQL;
 Advanced in MS Excel;  
 HDM-4, FAARFIELD;  
 Python, R, Matlab;  
-Github; Jupyter, Slack, Heroku.
+Github; Jupyter, Colab, Heroku;  
+Agile, Scrum, Trello; Slack.
 
 ## Projects
 
