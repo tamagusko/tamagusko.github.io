@@ -18,7 +18,7 @@ Civil Engineer & Data Analyst
 
 ## Education
 `2020`
-**PhD., Transport Systems**, *University of Coimbra*, Portugal.
+**Ph.D., Transport Systems**, *University of Coimbra*, Portugal.
 (In progress)
 
 `2018-2020`
