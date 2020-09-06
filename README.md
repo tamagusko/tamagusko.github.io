@@ -76,7 +76,7 @@ Autocad, ArcGIS, QGIS;
 SQL, PostgreSQL;  
 Advanced in MS Excel;  
 HDM-4, FAARFIELD;  
-Python, Matlab.
+Python, R, Matlab.
 
 ## Projects
 
