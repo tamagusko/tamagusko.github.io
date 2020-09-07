@@ -5,12 +5,11 @@ title: Tiago Tamagusko's
 # Tiago Tamagusko
 Civil Engineer & Data Analyst
 
-- 5+ years of experience as a civil engineer in the transportation area;
-- Seeking to develop and apply multidisciplinary skills to solve complex problems;
-- Enthusiast of AI, programming, tech, and active mobility.<br/>
+- 5+ years of experience as a civil engineer in the transportation area;  
+- Experience in solving complex problems;  
+- Enthusiast of AI, programming, and active mobility.<br/>
 
 <div id="webaddress">
-  <a href="https://tamagusko.github.io" target="_blank"><i class="fas fa-home"></i> tamagusko.github.io</a> - 
   <a href="https://github.com/tamagusko" target="_blank"><i class="fab fa-github"></i> github.com/tamagusko</a> - 
   <a href="https://www.linkedin.com/in/tamagusko/" target="_blank"><i class="fab fa-linkedin"></i> @tamagusko</a> -
   <a href="mailto:tamagusko@gmail.com/" target="_blank"><i class="fas fa-envelope"></i> tamagusko@gmail.com</a>
@@ -18,7 +17,7 @@ Civil Engineer & Data Analyst
 
 ## Education
 `2020`
-**Ph.D., Transport Systems**, *University of Coimbra*, Portugal.
+**Ph.D., Transport Systems**, *University of Coimbra*, Portugal.  
 (In progress)
 
 `2018-2020`
@@ -39,7 +38,9 @@ Final Project: <a href="https://doi.org/10.13140/RG.2.2.14193.10089" target="_bl
 
 `2020`
 **Data Scientist**, *JEST, Portugal.* (In progress)   
-Data Scientist at Junior Enterprise for Science and Technology (JEST).
+(6 mos. Intern and Data Scientist)  
+Member of the Junior Enterprise for Science and Technology (JEST) information technology group;  
+Data science assignments.
 
 `2009-2018`
 **Civil Engineer | Researcher**, *LabTrans, Brazil.*  
@@ -83,8 +84,7 @@ Advanced in MS Excel;
 HDM-4, FAARFIELD;  
 Python, R, Matlab;  
 Github; Jupyter, Colab, Heroku;  
-Agile, Scrum, Trello, Slack.
-
+Agile, Scrum, Trello; Slack.
 ## Projects
 
 `2020`
