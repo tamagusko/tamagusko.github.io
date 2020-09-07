@@ -5,8 +5,6 @@ Civil Engineer & Data Analyst
 - Experience in solving complex problems;
 - Enthusiast of AI, programming, and active mobility.<br/>
 
-<a href="firstname.lastname@helsinki.fi">firstname.lastname@helsinki.fi</a> - +358 (0)2 941 51617
-
 <div id="webaddress">
   <a href="https://tamagusko.github.io"><i class="fas fa-home"></i> tamagusko.github.io</a> - 
   <a href="https://github.com/tamagusko" target="_blank"><i class="fab fa-github"></i> tamagusko</a> - 
