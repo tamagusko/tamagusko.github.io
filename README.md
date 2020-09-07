@@ -5,10 +5,15 @@ Civil Engineer & Data Analyst
 - Experience in solving complex problems;
 - Enthusiast of AI, programming, and active mobility.<br/>
 
+<a href="firstname.lastname@helsinki.fi">firstname.lastname@helsinki.fi</a> - +358 (0)2 941 51617
+
 <div id="webaddress">
-  <a href="https://github.com/tamagusko" target="_blank"><i class="fab fa-github"></i>github.com/tamagusko</a> - 
-  <a href="https://www.linkedin.com/in/tamagusko/" target="_blank"><i class="fab fa-linkedin"></i>@tamagusko</a> -
-  <a href="mailto:tamagusko@gmail.com/" target="_blank"><i class="fas fa-envelope"></i>tamagusko@gmail.com</a>
+  <a href="https://tamagusko.github.io"><i class="fas fa-home"></i> tamagusko.github.io</a> - 
+  <a href="https://github.com/tamagusko" target="_blank"><i class="fab fa-github"></i> tamagusko</a> - 
+  <a href="https://www.linkedin.com/in/tamagusko/" target="_blank"><i class="fab fa-linkedin"></i> tamagusko</a><br/>
+  <a href="mailto:tamagusko@gmail.com/" target="_blank"><i class="fas fa-envelope"></i> tamagusko@gmail.com</a> - 
+  <a href="https://orcid.org/0000-0003-0502-6472"><i class="ai ai-orcid"></i> 0000-0003-0502-6472</a> - 
+  <a href="https://www.researchgate.net/profile/Tiago_Tamagusko"><i class="ai ai-researchgate"></i> Tiago_Tamagusko</a> - 
 </div>
 
 ## Education
