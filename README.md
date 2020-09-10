@@ -57,9 +57,12 @@ GIS-Based Network Analysis for the national road network (Brazil).
 Assignments in the infrastructure field.
 
 ## Courses
+### Machine Learning
 
 `2020`
 **Machine Learning**, *Coursera | Stanford Online, 11 weeks*.
+
+### Transport Infrastructures
 
 `2020`
 **Think Road Safety**, *Open Learning Campus | World Bank Group | Online Course, 1.5h*.
