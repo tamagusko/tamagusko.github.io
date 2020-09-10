@@ -61,6 +61,9 @@ Assignments in the infrastructure field.
 `2020`
 **Machine Learning**, *Coursera | Stanford Online, 11 weeks*.
 
+`2020`
+**Think Road Safety - Road Safety Training for External PARTNERS**, *World Bank Group | Online self-paced, 1.5h*.
+
 `2016`
 **Theory and Practice of WIM Systems**, *FAPEU, Brazil, 10h*.
  
