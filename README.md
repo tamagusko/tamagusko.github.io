@@ -38,7 +38,7 @@ Final Project: <a href="https://doi.org/10.13140/RG.2.2.14193.10089" target="_bl
 `2020`
 **Data Scientist**, *JEST, Portugal.* (In progress)   
 (6mos. Intern and Data Scientist)  
-Member of the Junior Enterprise for Science and Technology (JEST) information technology group;  
+Member of the Junior Enterprise for Science and Technology (JEST) Technology and Innovation group;  
 Data science assignments.
 
 `2009-2018`
