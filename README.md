@@ -135,7 +135,7 @@ More: <a href="https://www.labtrans.ufsc.br/en/modelo-de-posto-integrado-automat
 **Tamagusko, T.** (2020). **Airport Pavement Design**. DOI: <a href="https://doi.org/10.13140/RG.2.2.19628.00640" target="_blank">https://doi.org/10.13140/RG.2.2.19628.00640</a>
 
 `2016`
-Guerson, L. P.; Gevaerd, B. M.; Otto, G. G.; **Tamagusko, T.**; Valente, A. M. (2016). **Test Site for Evaluation of High-Speed WIM and ITS Solutions in Brazilian Conditions**. In: ICWIM7 Proceedings, 2016.
+Guerson, L. P.; Gevaerd, B. M.; Otto, G. G.; **Tamagusko, T.**; Valente, A. M. (2016). **Test Site for Evaluation of High-Speed WIM and ITS Solutions in Brazilian Conditions**. In: ICWIM7 Proceedings, 2016. Proceedings: <a href="http://www.is-wim.org/icwim7/doc/icwim7_bookproceedings.pdf#page=73" target="_blank">icwim7_bookproceedings</a> 
 
 `2013`
 **Tamagusko, T.** (2013). **Cost of Lack of Standardization of Railway Gauges in Brazil**. (in Portuguese) DOI: <a href="https://doi.org/10.13140/RG.2.2.14193.10089" target="_blank">https://doi.org/10.13140/RG.2.2.14193.10089</a>
