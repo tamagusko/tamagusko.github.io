@@ -52,7 +52,7 @@ Design and construction of asphalt pavement;
 GIS-Based Network Analysis for the national road network (Brazil).
 
 `2004-2005`
-**Telecommmunications Technician**, *Alcatel-Lucent Enterprise, Brazil.*  
+**Telecommunications Technician**, *Alcatel-Lucent Enterprise, Brazil.*  
 (Telecommunications Technician)  
 Assignments in the infrastructure field.
 
