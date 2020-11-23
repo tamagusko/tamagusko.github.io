@@ -133,6 +133,9 @@ More: <a href="https://www.labtrans.ufsc.br/en/modelo-de-posto-integrado-automat
 ## Publications
 
 `2020`
+**Tamagusko, T.** and Ferreira, A. (2020). **Data-Driven Approach to Understand the Mobility Patterns of the Portuguese Population during the COVID-19 Pandemic**. Sustainability, 12, 9775. MDPI. DOI: <a href="https://doi.org/10.3390/su12229775" target="_blank">https://doi.org/10.3390/su12229775</a>
+
+`2020`
 **Tamagusko, T.** and Ferreira, A. (2020). **Software Tools for Airport Pavement Design**. In: Rocha Á., Adeli H., Reis L., Costanzo S., Orovic I., Moreira F. (eds) Trends and Innovations in Information Systems and Technologies. WorldCIST 2020. Advances in Intelligent Systems and Computing, vol 1160. Springer. DOI: <a href="https://doi.org/10.1007/978-3-030-45691-7_7" target="_blank">https://doi.org/10.1007/978-3-030-45691-7_7</a>
 
 `2020`
