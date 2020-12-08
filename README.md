@@ -1,7 +1,3 @@
----
-layout: cv
-title: Tiago Tamagusko's
----
 # Tiago Tamagusko
 Civil Engineer & Data Analyst
 
