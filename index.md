@@ -43,7 +43,7 @@ Final Project: <a href="https://doi.org/10.13140/RG.2.2.14193.10089" target="_bl
 **Data Scientist**, *JEST, Portugal.* (In progress)   
 (6mos. Intern and Data Scientist)  
 Member of the Junior Enterprise for Science and Technology (JEST) Technology and Innovation group;  
-Data science assignments.
+Assignments in the IT area, Data Scientist.
 
 `2009-2018`
 **Civil Engineer | Researcher**, *LabTrans, Brazil.*  
@@ -100,7 +100,6 @@ Agile, Scrum, Trello; Slack.
 **JEST 2020/1 IT Initiation Project**, *JEST, Portugal.*  
 (Data Scientist Intern)  
 Initiation Project for the first semester of 2020 by Junior Enterprise for Science and Technology (JEST).  
-Assignments in the IT area, Data Scientist.
 
 More: <a href="https://github.com/tamagusko/jest20201" target="_blank">https://github.com/tamagusko/jest20201</a>
 
