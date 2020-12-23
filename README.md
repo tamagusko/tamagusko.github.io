@@ -37,13 +37,13 @@ Final Project: <a href="https://doi.org/10.13140/RG.2.2.14193.10089" target="_bl
 
 `2020`
 **Data Scientist**, *JEST, Portugal.* (In progress)   
-(6mos. Intern and Data Scientist)  
+(6mos. Intern and Data Scientist/Volunteer) 
 Member of the Junior Enterprise for Science and Technology (JEST) Technology and Innovation group;  
 Assignments in the IT area, Data Scientist.
 
 `2009-2018`
 **Civil Engineer | Researcher**, *LabTrans, Brazil.*  
-(4yr. Intern and 5yr. Engineer/Researcher)  
+(4yr. Intern and 5yr. Engineer)  
 Technical studies and development of projects for weigh-in-motion systems;  
 Engineering economics, cost-benefit and life-cycle analysis of pavements;  
 Implementation of ITS technologies for real-time highway monitoring;  
