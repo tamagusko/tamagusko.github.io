@@ -58,10 +58,6 @@ Assignments in the infrastructure field.
 
 ## Courses
 
-### 
-
-
-
 ### Computer Science
 
 `2021`
@@ -156,7 +152,7 @@ Guerson, L. P.; Gevaerd, B. M.; Otto, G. G.; **Tamagusko, T.**; Valente, A. M. (
 **Tamagusko, T.** and Ferreira, A. (2021). **Mobility Patterns of the Portuguese Population During the First Year of the COVID-19 Pandemic: A Longitudinal Study**. Sustainability.
 
 `2021`
-Marc Hasselwander, **Tiago Tamagusko**, João Bigotte, Adelino Ferreira, Alvin Mejia, and Emma J. S. Ferranti (2021). **MBuilding back better: The COVID-19 pandemic and transport policy implications for a developing megacity**. Sustainable Cities and Society.
+Marc Hasselwander, **Tiago Tamagusko**, João Bigotte, Adelino Ferreira, Alvin Mejia, and Emma J. S. Ferranti (2021). **Building back better: The COVID-19 pandemic and transport policy implications for a developing megacity**. Sustainable Cities and Society.
 
 `2020`
 **Tamagusko, T.** and Ferreira, A. (2020). **Métodos de Dimensionamento de Pavimentos Aeroportuários**, Proceedings of the 9th Congresso Luso Moçambicano de Engenharia, Maputo, Moçambique. (In Portuguese)
