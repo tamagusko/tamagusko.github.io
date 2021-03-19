@@ -69,7 +69,7 @@ Assignments in the infrastructure field.
 ### Transport Infrastructure
 
 `2020`
-**Think Road Safety**, *Open Learning Campus | World Bank Group | Online Course, 1.5h*.
+**Think Road Safety**, *Open Learning Campus | World Bank Group | Online, 1.5h*.
 
 `2016`
 **Theory and Practice of WIM Systems**, *FAPEU, Brazil, 10h*.
