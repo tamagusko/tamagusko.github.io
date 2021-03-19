@@ -61,10 +61,14 @@ GIS-Based Network Analysis for the national road network (Brazil).
 Assignments in the infrastructure field.
 
 ## Courses
-### Artificial Intelligence
+
+### Computer Science
+
+`2021`
+**Mastering Big Data with Free Platforms**, *USP | Online, 32h*.
 
 `2020`
-**Machine Learning**, *Coursera | Stanford Online, 11 weeks*.
+**Machine Learning**, *Coursera/Stanford | Online, 11 weeks*.
 
 ### Transport Infrastructure
 
@@ -148,8 +152,11 @@ Guerson, L. P.; Gevaerd, B. M.; Otto, G. G.; **Tamagusko, T.**; Valente, A. M. (
 
 ### Submitted
 
-`2020`
-**Tamagusko, T.** and Ferreira, A. (2021). **Mobility patterns of the Portuguese population during the COVID-19 pandemic**, Proceedings of the 2021 International Conference on Information Technology & Systems, Libertad city, Ecuador. ArXiv ID: <a href="https://arxiv.org/abs/2007.06506" target="_blank">https://arxiv.org/abs/2007.06506</a> (preprint)
+`2021`
+**Tamagusko, T.** and Ferreira, A. (2021). **Mobility Patterns of the Portuguese Population During the First Year of the COVID-19 Pandemic: A Longitudinal Study**. Sustainability.
+
+`2021`
+Marc Hasselwander, **Tiago Tamagusko**, João Bigotte, Adelino Ferreira, Alvin Mejia, and Emma J. S. Ferranti (2021). **MBuilding back better: The COVID-19 pandemic and transport policy implications for a developing megacity**. Sustainable Cities and Society.
 
 `2020`
 **Tamagusko, T.** and Ferreira, A. (2020). **Métodos de Dimensionamento de Pavimentos Aeroportuários**, Proceedings of the 9th Congresso Luso Moçambicano de Engenharia, Maputo, Moçambique. (In Portuguese)
