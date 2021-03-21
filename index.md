@@ -135,28 +135,28 @@ More: <a href="https://www.labtrans.ufsc.br/en/modelo-de-posto-integrado-automat
 
 ## Publications
 
-`2020`
-**Tamagusko, T.** and Ferreira, A. (2020). **Data-Driven Approach to Understand the Mobility Patterns of the Portuguese Population during the COVID-19 Pandemic**. Sustainability, 12, 9775. MDPI. DOI: <a href="https://doi.org/10.3390/su12229775" target="_blank">https://doi.org/10.3390/su12229775</a>
+`2021`
+Marc Hasselwander, **Tiago Tamagusko**, João Bigotte, Adelino Ferreira, Alvin Mejia, and Emma J. S. Ferranti (2021). **Building back better: The COVID-19 pandemic and transport policy implications for a developing megacity**. Sustainable Cities and Society. DOI: <a href="https://doi.org/10.1016/j.scs.2021.102864" target="_blank">10.1016/j.scs.2021.102864</a>
 
 `2020`
-**Tamagusko, T.** and Ferreira, A. (2020). **Software Tools for Airport Pavement Design**. In: Rocha Á., Adeli H., Reis L., Costanzo S., Orovic I., Moreira F. (eds) Trends and Innovations in Information Systems and Technologies. WorldCIST 2020. Advances in Intelligent Systems and Computing, vol 1160. Springer. DOI: <a href="https://doi.org/10.1007/978-3-030-45691-7_7" target="_blank">https://doi.org/10.1007/978-3-030-45691-7_7</a>
+**Tamagusko, T.** and Ferreira, A. (2020). **Data-Driven Approach to Understand the Mobility Patterns of the Portuguese Population during the COVID-19 Pandemic**. Sustainability, 12, 9775. MDPI. DOI: <a href="https://doi.org/10.3390/su12229775" target="_blank">10.3390/su12229775</a>
 
 `2020`
-**Tamagusko, T.** (2020). **Airport Pavement Design**. DOI: <a href="https://doi.org/10.13140/RG.2.2.19628.00640" target="_blank">https://doi.org/10.13140/RG.2.2.19628.00640</a>
+**Tamagusko, T.** and Ferreira, A. (2020). **Software Tools for Airport Pavement Design**. In: Rocha Á., Adeli H., Reis L., Costanzo S., Orovic I., Moreira F. (eds) Trends and Innovations in Information Systems and Technologies. WorldCIST 2020. Advances in Intelligent Systems and Computing, vol 1160. Springer. DOI: <a href="https://doi.org/10.1007/978-3-030-45691-7_7" target="_blank">10.1007/978-3-030-45691-7_7</a>
+
+`2020`
+**Tamagusko, T.** (2020). **Airport Pavement Design**. DOI: <a href="https://doi.org/10.13140/RG.2.2.19628.00640" target="_blank">10.13140/RG.2.2.19628.00640</a>
 
 `2016`
-Guerson, L. P.; Gevaerd, B. M.; Otto, G. G.; **Tamagusko, T.**; Valente, A. M. (2016). **Test Site for Evaluation of High-Speed WIM and ITS Solutions in Brazilian Conditions**. In: ICWIM7 Proceedings, 2016. Proceedings: <a href="http://www.is-wim.org/icwim7/doc/icwim7_bookproceedings.pdf#page=73" target="_blank">icwim7_bookproceedings</a>
+Guerson, L. P.; Gevaerd, B. M.; Otto, G. G.; **Tamagusko, T.**; Valente, A. M. (2016). **Test Site for Evaluation of High-Speed WIM and ITS Solutions in Brazilian Conditions**. In: ICWIM7 Proceedings, 2016. Proceedings: <a href="http://www.is-wim.org/icwim7/doc/icwim7_bookproceedings.pdf#page=73" target="_blank">icwim7_bookproceedings</a> 
 
 `2013`
-**Tamagusko, T.** (2013). **Cost of Lack of Standardization of Railway Gauges in Brazil**. (in Portuguese) DOI: <a href="https://doi.org/10.13140/RG.2.2.14193.10089" target="_blank">https://doi.org/10.13140/RG.2.2.14193.10089</a>
+**Tamagusko, T.** (2013). **Cost of Lack of Standardization of Railway Gauges in Brazil**. (in Portuguese) DOI: <a href="https://doi.org/10.13140/RG.2.2.14193.10089" target="_blank">10.13140/RG.2.2.14193.10089</a>
 
 ### Submitted
 
 `2021`
 **Tamagusko, T.** and Ferreira, A. (2021). **Mobility Patterns of the Portuguese Population During the First Year of the COVID-19 Pandemic: A Longitudinal Study**. Sustainability.
-
-`2021`
-Marc Hasselwander, **Tiago Tamagusko**, João Bigotte, Adelino Ferreira, Alvin Mejia, and Emma J. S. Ferranti (2021). **Building back better: The COVID-19 pandemic and transport policy implications for a developing megacity**. Sustainable Cities and Society.
 
 `2020`
 **Tamagusko, T.** and Ferreira, A. (2020). **Métodos de Dimensionamento de Pavimentos Aeroportuários**, Proceedings of the 9th Congresso Luso Moçambicano de Engenharia, Maputo, Moçambique. (In Portuguese)
