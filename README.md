@@ -38,10 +38,10 @@ Final Project: <a href="https://doi.org/10.13140/RG.2.2.14193.10089" target="_bl
 `2020`
 **Technology and Innovation Coordinator**, *JEST, Portugal.* (In progress)   
 (6mos. Intern, 4 mos. Data Scientist, TI coordinator) 
-Coordinator of the Technology and Innovation group at the Junior Enterprise for Science and Technology (JEST);
-Data Science;
-Machine Learning;
-Team management;
+Coordinator of the Technology and Innovation group at the Junior Enterprise for Science and Technology (JEST);  
+Data Science;  
+Machine Learning;  
+Team management;  
 Project management.
 
 `2009-2018`
