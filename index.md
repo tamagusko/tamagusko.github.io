@@ -40,10 +40,13 @@ Final Project: <a href="https://doi.org/10.13140/RG.2.2.14193.10089" target="_bl
 ## Experience
 
 `2020`
-**Data Scientist**, *JEST, Portugal.* (In progress)   
-(6mos. Intern and Data Scientist/Volunteer)  
-Member of the Junior Enterprise for Science and Technology (JEST) Technology and Innovation group;  
-Assignments in the IT area, Data Scientist.
+**Technology and Innovation Coordinator**, *JEST, Portugal.* (In progress)   
+(6mos. Intern, 4 mos. Data Scientist, TI coordinator)  
+Coordinator of the Technology and Innovation at JEST;  
+Data Science;  
+Machine Learning;  
+Team management;  
+Project management.
 
 `2009-2018`
 **Civil Engineer | Researcher**, *LabTrans, Brazil.*  
