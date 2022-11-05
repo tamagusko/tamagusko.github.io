@@ -1,6 +1,6 @@
 ## Simple is better than complex
 
-My resume. Based on [no-style-please](https://github.com/riggraz/no-style-please).
+My personal website. Based on [no-style-please](https://github.com/riggraz/no-style-please).
 
 ---
 
