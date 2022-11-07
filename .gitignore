@@ -6,6 +6,7 @@
 
 # Folders to ignore
 /bkp/*
+_site/_
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
