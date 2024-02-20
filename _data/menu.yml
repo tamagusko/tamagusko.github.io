@@ -14,6 +14,8 @@ entries:
         url: https://www.linkedin.com/in/tamagusko/
       - title: scholar
         url: https://scholar.google.com/citations?user=_mJ4dr0AAAAJ&hl=en
+      - title: scopus
+        url: https://www.scopus.com/authid/detail.uri?authorId=57217101810
       - title: awards
         url: https://github.com/tamagusko/awards
   - title: projects
