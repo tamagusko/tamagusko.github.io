@@ -4,7 +4,7 @@
 
   <title>
     {%- if page.title -%}
-      {{ page.title }}
+      {{ page.title }} · {{ site.title }}
     {%- else -%}
       {{ site.title }}
     {%- endif -%}
@@ -13,6 +13,6 @@
   {%-seo title=false-%}
   {%-feed_meta-%}
 
-  <link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon | relative_url }}" />
+  <link rel="shortcut icon" type="image/x-icon" href="{{ "/favicon.ico" | relative_url }}" />
   <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}" />
 </head>

@@ -4,16 +4,8 @@ email: tamagusko@gmail.com
 url: https://tamagusko.com
 baseurl: ""
 description: >
-  PhD | AI, Computer Vision & Data Science for Transportation
+  Postdoc · AI, Computer Vision & Data Science
 permalink: /:slug.html
-
-theme: no-style-please
-
-theme_config:
-  appearance: "auto"
-  back_home_text: ".."
-  date_format: "%Y-%m-%d"
-  show_description: true
 
 sass:
   style: compressed

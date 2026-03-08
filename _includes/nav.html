@@ -1,0 +1,8 @@
+<nav>
+  <a href="{{ "/" | relative_url }}" class="nav-name"{% if page.url == "/" %} aria-current="page"{% endif %}>About</a>
+  <div class="nav-links">
+    <a href="{{ "/publications" | relative_url }}"{% if page.url == "/publications.html" %} class="active" aria-current="page"{% endif %}>Publications</a>
+    <a href="{{ "/projects" | relative_url }}"{% if page.url == "/projects.html" %} class="active" aria-current="page"{% endif %}>Projects</a>
+    <a href="https://tamagusko.github.io/cv">CV</a>
+  </div>
+</nav>
