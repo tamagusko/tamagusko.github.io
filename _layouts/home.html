@@ -8,6 +8,14 @@ layout: default
   {%-endif-%}
 </header>
 
+{%-if site.data.news-%}
+<p><b>latest: </b>
+{%- for item in site.data.news limit:2 -%}
+  {{ item.text }}{%- unless forloop.last %} | {% endunless -%}
+{%- endfor -%}
+</p>
+{%-endif-%}
+
 {%-include menu_item.html collection=site.data.menu.entries-%}
 
 {{ content }}

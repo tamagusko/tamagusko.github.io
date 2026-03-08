@@ -1,15 +1,18 @@
-version: '3'
-
 services:
   jekyll:
-    image: bretfisher/jekyll-serve
+    image: ruby:3.3-slim
     volumes:
       - .:/site
       - jekyll:/usr/local/bundle
     ports:
       - '4000:4000'
-      - '35729:35729'
-    command: [ "bundle", "exec", "jekyll", "serve", "--force_polling", "-H", "0.0.0.0", "-P", "4000", "--livereload", "--livereload-port", "35729", "--baseurl", "/preview" ]
+    working_dir: /site
+    command: >
+      bash -c "
+        apt-get update -qq && apt-get install -y -qq build-essential git > /dev/null 2>&1 &&
+        bundle install --quiet &&
+        bundle exec jekyll serve --force_polling -H 0.0.0.0 -P 4000 --baseurl /preview
+      "
 
 volumes:
-    jekyll:
+  jekyll:
