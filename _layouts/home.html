@@ -1,15 +1,8 @@
 ---
 layout: default
 ---
-
-<section class="profile">
-  <div class="profile-photo">
-    <img src="{{ "/img/tamagusko-circle.webp" | relative_url }}" alt="{{ site.title }}" />
-  </div>
-  <div class="profile-info">
-    <h1>{{ site.title }}</h1>
-    <p class="subtitle">{{ site.description }}</p>
-  </div>
+<section class="home">
+  {{ content }}
 </section>
 
-{{ content }}
+{% include network.html %}

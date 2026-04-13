@@ -4,13 +4,24 @@ email: tamagusko@gmail.com
 url: https://tamagusko.com
 baseurl: ""
 description: >
-  Postdoc · AI, Computer Vision & Data Science
+  Postdoctoral researcher · AI applied to transportation, computer vision, and data science.
+
 permalink: /:slug.html
 
 sass:
+  sass_dir: _sass
   style: compressed
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-redirect-from
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - README.md
+  - docker-compose.yml
+  - LICENSE-junior-theme

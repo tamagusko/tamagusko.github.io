@@ -1,0 +1,11 @@
+<header class="site-header">
+  <div class="container mx-auto">
+    <a href="{{ "/" | relative_url }}" class="site-title">{{ site.title }}</a>
+    <nav class="site-nav">
+      <a href="{{ "/" | relative_url }}"{% if page.url == "/" %} class="active"{% endif %}>About</a>
+      <a href="{{ "/publications" | relative_url }}"{% if page.url contains "publications" %} class="active"{% endif %}>Publications</a>
+      <a href="{{ "/projects" | relative_url }}"{% if page.url contains "projects" %} class="active"{% endif %}>Projects</a>
+      <a href="https://tamagusko.github.io/cv">CV</a>
+    </nav>
+  </div>
+</header>

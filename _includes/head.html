@@ -1,18 +1,19 @@
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>
-    {%- if page.title -%}
-      {{ page.title }} · {{ site.title }}
-    {%- else -%}
-      {{ site.title }}
-    {%- endif -%}
-  </title>
+  <title>{% if page.title %}{{ page.title | strip_html }} · {% endif %}{{ site.title | strip_html }}</title>
 
-  {%-seo title=false-%}
-  {%-feed_meta-%}
+  <meta name="description" content="{% if page.description %}{{ page.description | xml_escape }}{% else %}{{ site.description | xml_escape }}{% endif %}">
+  <meta name="author" content="{{ site.author }}">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
-  <link rel="shortcut icon" type="image/x-icon" href="{{ "/favicon.ico" | relative_url }}" />
-  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}" />
+  {%- seo title=false -%}
+  {%- feed_meta -%}
+
+  <link rel="shortcut icon" type="image/x-icon" href="{{ "/favicon.ico" | relative_url }}">
+  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+
+  <link href="https://fonts.googleapis.com/css?family=Mulish:300,400,700&display=swap" rel="stylesheet">
 </head>

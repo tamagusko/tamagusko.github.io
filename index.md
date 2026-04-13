@@ -2,22 +2,20 @@
 layout: home
 ---
 
-Postdoctoral Fellow at [University College Dublin](https://people.ucd.ie/tiago.tamagusko) in the School of Architecture, Planning & Environmental Policy. PhD in AI applied to Transport (University of Coimbra, 2024).
+I'm a postdoctoral researcher at [University College Dublin](https://people.ucd.ie/tiago.tamagusko), in the School of Architecture, Planning & Environmental Policy. I hold a PhD in AI applied to Transport from the University of Coimbra (2024).
 
-My research applies artificial intelligence to transportation, from machine learning models for infrastructure assessment to computer vision systems for road safety.
+My research applies artificial intelligence to transportation — building machine learning models for infrastructure assessment and computer vision systems for road safety.
 
-<div class="section-label">Research interests</div>
+I'm currently interested in:
 
-<div class="interests">
-  <span class="interest-tag">Machine Learning</span>
-  <span class="interest-tag">Computer Vision</span>
-  <span class="interest-tag">Transportation AI</span>
-  <span class="interest-tag">Infrastructure Assessment</span>
-  <span class="interest-tag">Intelligent Transport Systems</span>
-  <span class="interest-tag">Data Science</span>
-</div>
+- Computer vision and edge AI for urban mobility
+- Machine learning for infrastructure performance prediction
+- Active transportation safety and risk assessment
+- Spatio-temporal modeling with street-level imagery
+- Reproducible, open-source transportation data science
 
-<div class="section-label">News</div>
+Recent:
 
-- Joined UCD as Postdoctoral Fellow (Sept 2024)
-- PhD completed: "AI applied to Transport Infrastructure Management" (Sept 2024)
+- 2025 — Assistant Professor (non-permanent), Military Institute of Engineering (IME), Brazil
+- 2024 — Postdoctoral Fellow, University College Dublin
+- 2024 — PhD with Highest Distinction, University of Coimbra
