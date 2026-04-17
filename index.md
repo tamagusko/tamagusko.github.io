@@ -6,6 +6,8 @@ I'm a postdoctoral researcher at [University College Dublin](https://people.ucd.
 
 My research applies artificial intelligence to transportation — building machine learning models for infrastructure assessment and computer vision systems for road safety.
 
+<a class="btn-pill--black" href="mailto:tamagusko@gmail.com">Email me</a>
+
 I'm currently interested in:
 
 - Computer vision and edge AI for urban mobility
