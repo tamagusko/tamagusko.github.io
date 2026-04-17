@@ -355,9 +355,16 @@ pre code { background: transparent; padding: 0; border-radius: 0; }
 // Publications list
 // ============================================================================
 .publications {
-  ul { list-style: none; padding: 0; margin: 0; }
+  .pubs-meta {
+    color: var(--c-fg-soft);
+    font-size: var(--t-body);
+    margin: 0 0 var(--s-5);
+    line-height: 1.56;
+  }
 
-  li {
+  ul.pubs-list { list-style: none; padding: 0; margin: 0; }
+
+  li.pub {
     padding: var(--s-4) 0;
     border-bottom: 1px solid var(--c-border);
     line-height: 1.56;
@@ -369,6 +376,26 @@ pre code { background: transparent; padding: 0; border-radius: 0; }
     em     { color: var(--c-fg); font-style: italic; }
   }
 
+  .pub-line { margin: 0 0 var(--s-2); }
+
+  .pub-actions {
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: var(--s-2) var(--s-3);
+  }
+
+  .pub-link {
+    font-family: var(--f-mono);
+    font-size: var(--t-small);
+    color: var(--c-fg-muted);
+    text-decoration: none;
+    text-transform: lowercase;
+    letter-spacing: 0;
+  }
+  .pub-link:hover { color: var(--c-fg); }
+
   h2 {
     font-family: var(--f-display);
     font-size: var(--t-card);
@@ -379,6 +406,23 @@ pre code { background: transparent; padding: 0; border-radius: 0; }
     margin: var(--s-7) 0 var(--s-3);
   }
 }
+
+// Cite (Copy BibTeX) button — small pill, paper-quiet
+.btn-cite {
+  font-family: var(--f-body);
+  font-size: var(--t-small);
+  font-weight: 500;
+  color: var(--c-fg-soft);
+  background: var(--c-bg);
+  border: 1px solid var(--c-border-mid);
+  border-radius: var(--r-pill);
+  padding: 4px 12px;
+  min-height: 28px;
+  cursor: pointer;
+  line-height: 1.2;
+}
+.btn-cite:hover    { background: var(--c-bg-soft); color: var(--c-fg); }
+.btn-cite:disabled { opacity: 0.7; cursor: default; }
 
 // ============================================================================
 // Project / archive list

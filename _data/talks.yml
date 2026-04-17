@@ -1,0 +1,18 @@
+# Format:
+# - date:        YYYY-MM-DD     # date of the talk
+#   title:       talk title
+#   venue:       venue name
+#   location:    "City, Country" (optional)
+#   type:        invited | keynote | conference | workshop | seminar | guest-lecture
+#   slides_url:  https://...    (optional)
+#   video_url:   https://...    (optional)
+#   event_url:   https://...    (optional)
+#
+# Order: newest first.
+
+# - date: 2026-04-15
+#   title: "Vision-Language Models for Cycling Safety Assessment"
+#   venue: TRA 2026
+#   location: "Dublin, Ireland"
+#   type: conference
+#   slides_url: https://...

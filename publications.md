@@ -3,22 +3,83 @@ layout: page
 title: Publications
 ---
 
-<div class="publications" markdown="1">
+<div class="publications" markdown="0">
 
-For a full list, see [Google Scholar](https://scholar.google.com/citations?user=_mJ4dr0AAAAJ&hl=en) or [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57217101810).
+<p class="pubs-meta">
+  For a full list, see
+  <a href="https://scholar.google.com/citations?user=_mJ4dr0AAAAJ&hl=en" rel="noopener external">Google Scholar</a> or
+  <a href="https://www.scopus.com/authid/detail.uri?authorId=57217101810" rel="noopener external">Scopus</a>.
+  Download all citations as
+  <a href="{{ '/tamagusko.bib' | relative_url }}" download="tamagusko.bib">tamagusko.bib</a>.
+</p>
 
-<h2>Selected articles</h2>
-
-<ul>
-<li>Galaktionova, A.; Istrate, A.-L.; <strong>Tamagusko, T.</strong>; Carroll, P. (2026). Street vitality and traffic risk: a multiscale analysis of Barcelona and Warsaw. <em>Accident Analysis &amp; Prevention</em>, 228. <a href="https://doi.org/10.1016/j.aap.2026.108393">doi:10.1016/j.aap.2026.108393</a></li>
-
-<li><strong>Tamagusko, T.</strong>; Ferreira, A. (2023). Machine Learning for Prediction of the International Roughness Index on Flexible Pavements: A Review, Challenges, and Future Directions. <em>Infrastructures</em>, 8(12), 170. <a href="https://doi.org/10.3390/infrastructures8120170">doi:10.3390/infrastructures8120170</a></li>
-
-<li><strong>Tamagusko, T.</strong> et al. (2023). Data-Driven Approach for Urban Micromobility Enhancement through Safety Mapping and Intelligent Route Planning. <em>Smart Cities</em>, 6(4), 2035–2056. <a href="https://doi.org/10.3390/smartcities6040094">doi:10.3390/smartcities6040094</a></li>
-
-<li><strong>Tamagusko, T.</strong>; Correia, M.; Huynh, M.; Ferreira, A. (2022). Deep Learning applied to Road Accident Detection with Transfer Learning and Synthetic Images. <em>Transportation Research Procedia</em>, 64, 90–97. <a href="https://doi.org/10.1016/j.trpro.2022.09.012">doi:10.1016/j.trpro.2022.09.012</a></li>
-
-<li>Hasselwander, M.; <strong>Tamagusko, T.</strong>; Bigotte, J.; Ferreira, A.; Mejia, A.; Ferranti, E. J. S. (2021). Building back better: The COVID-19 pandemic and transport policy implications for a developing megacity. <em>Sustainable Cities and Society</em>. <a href="https://doi.org/10.1016/j.scs.2021.102864">doi:10.1016/j.scs.2021.102864</a></li>
-</ul>
+{% for entry in site.data.publications %}
+  {% if entry.section %}
+    <h2>{{ entry.section }}</h2>
+    <ul class="pubs-list">
+  {% else %}
+    <li class="pub" id="{{ entry.key }}">
+      <p class="pub-line">
+        {%- assign authors = entry.authors -%}
+        {%- if entry.highlight -%}
+          {%- assign authors = authors | replace: entry.highlight, '<strong>' | append: '</strong>' -%}
+          {{ entry.authors | replace: entry.highlight, '<strong>' | append: entry.highlight | append: '</strong>' }}
+        {%- else -%}
+          {{ entry.authors }}
+        {%- endif -%}
+        ({{ entry.year }}).
+        {{ entry.title }}.
+        <em>{{ entry.venue }}</em>{% if entry.volume %}, {{ entry.volume }}{% if entry.number %}({{ entry.number }}){% endif %}{% endif %}{% if entry.pages %}, {{ entry.pages }}{% endif %}.
+        {% if entry.doi %}<a href="https://doi.org/{{ entry.doi }}" rel="noopener external">doi:{{ entry.doi }}</a>{% endif %}
+      </p>
+      <p class="pub-actions">
+        <button type="button" class="btn-cite" data-bibtex-key="{{ entry.key }}" aria-label="Copy BibTeX for {{ entry.title | escape }}">Copy BibTeX</button>
+        {% if entry.doi %}<a class="pub-link" href="https://doi.org/{{ entry.doi }}" rel="noopener external">DOI</a>{% endif %}
+        <script type="application/x-bibtex" id="bib-{{ entry.key }}">{{ entry.bibtex | strip }}</script>
+      </p>
+    </li>
+    {% if forloop.last %}</ul>{% endif %}
+    {% assign next_index = forloop.index %}
+    {% assign next = site.data.publications[next_index] %}
+    {% if next.section %}</ul>{% endif %}
+  {% endif %}
+{% endfor %}
 
 </div>
+
+<script>
+(function () {
+  function flash(btn, text) {
+    var original = btn.dataset.label || btn.textContent;
+    btn.dataset.label = original;
+    btn.textContent = text;
+    btn.disabled = true;
+    setTimeout(function () { btn.textContent = original; btn.disabled = false; }, 1600);
+  }
+  document.addEventListener('click', function (event) {
+    var btn = event.target.closest('.btn-cite');
+    if (!btn) return;
+    var key = btn.getAttribute('data-bibtex-key');
+    var node = document.getElementById('bib-' + key);
+    if (!node) return;
+    var text = node.textContent.trim();
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(text).then(
+        function () { flash(btn, 'Copied'); },
+        function () { flash(btn, 'Copy failed'); }
+      );
+    } else {
+      var ta = document.createElement('textarea');
+      ta.value = text;
+      ta.setAttribute('readonly', '');
+      ta.style.position = 'absolute';
+      ta.style.left = '-9999px';
+      document.body.appendChild(ta);
+      ta.select();
+      try { document.execCommand('copy'); flash(btn, 'Copied'); }
+      catch (e) { flash(btn, 'Copy failed'); }
+      document.body.removeChild(ta);
+    }
+  });
+})();
+</script>

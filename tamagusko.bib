@@ -1,0 +1,14 @@
+---
+permalink: /tamagusko.bib
+sitemap: false
+---
+{%- comment -%}
+Aggregated BibTeX, generated at build time from _data/publications.yml.
+Served at /tamagusko.bib as plain text.
+{%- endcomment -%}
+{%- for entry in site.data.publications -%}
+  {%- if entry.bibtex -%}
+{{ entry.bibtex | strip }}
+
+{% endif -%}
+{%- endfor -%}
