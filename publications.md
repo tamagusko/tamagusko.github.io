@@ -16,7 +16,8 @@ title: Publications
   {% else %}
     {% assign authors_html = entry.authors %}
     {% if entry.highlight %}
-      {% assign authors_html = entry.authors | replace: entry.highlight, '<strong>' | append: entry.highlight | append: '</strong>' %}
+      {% capture _replacement %}<strong>{{ entry.highlight }}</strong>{% endcapture %}
+      {% assign authors_html = entry.authors | replace: entry.highlight, _replacement %}
     {% endif %}
     <li class="pub" id="{{ entry.key }}">
       <p class="pub-line">
