@@ -2,25 +2,24 @@
 # Used by /publications.html (rendered list + Copy BibTeX button)
 # and /tamagusko.bib (aggregated BibTeX file).
 #
+# Citation format: APA7 (rendered in publications.md template).
 # Order: newest first. Group by `section`.
 
 - section: Selected articles
 
 - key: galaktionova2026street
-  type: article
-  authors: "Galaktionova, A.; Istrate, A.-L.; Tamagusko, T.; Carroll, P."
-  authors_short: "Galaktionova, Istrate, Tamagusko, Carroll"
-  highlight: Tamagusko, T.
+  authors: "Galaktionova, A., Istrate, A.-L., Tamagusko, T., & Carroll, P."
+  highlight: "Tamagusko, T."
   year: 2026
-  title: "Street vitality and traffic risk: a multiscale analysis of Barcelona and Warsaw"
-  venue: Accident Analysis & Prevention
-  venue_short: AAP
+  title: "Street vitality and traffic risk: A multiscale analysis of Barcelona and Warsaw"
+  venue: "Accident Analysis & Prevention"
   volume: "228"
-  doi: 10.1016/j.aap.2026.108393
+  pages: "108393"
+  doi: "10.1016/j.aap.2026.108393"
   bibtex: |
     @article{galaktionova2026street,
       author  = {Galaktionova, Anna and Istrate, Ana-Liliana and Tamagusko, Tiago and Carroll, P{\'a}raic},
-      title   = {Street vitality and traffic risk: a multiscale analysis of {Barcelona} and {Warsaw}},
+      title   = {Street vitality and traffic risk: A multiscale analysis of {Barcelona} and {Warsaw}},
       journal = {Accident Analysis \& Prevention},
       year    = {2026},
       volume  = {228},
@@ -29,22 +28,19 @@
     }
 
 - key: tamagusko2023ml
-  type: article
-  authors: "Tamagusko, T.; Ferreira, A."
-  authors_short: "Tamagusko, Ferreira"
-  highlight: Tamagusko, T.
+  authors: "Tamagusko, T., & Ferreira, A."
+  highlight: "Tamagusko, T."
   year: 2023
-  title: "Machine Learning for Prediction of the International Roughness Index on Flexible Pavements: A Review, Challenges, and Future Directions"
-  venue: Infrastructures
-  venue_short: Infrastructures
+  title: "Machine learning for prediction of the international roughness index on flexible pavements: A review, challenges, and future directions"
+  venue: "Infrastructures"
   volume: "8"
   number: "12"
   pages: "170"
-  doi: 10.3390/infrastructures8120170
+  doi: "10.3390/infrastructures8120170"
   bibtex: |
     @article{tamagusko2023ml,
       author  = {Tamagusko, Tiago and Ferreira, Adelino},
-      title   = {Machine Learning for Prediction of the International Roughness Index on Flexible Pavements: A Review, Challenges, and Future Directions},
+      title   = {Machine learning for prediction of the international roughness index on flexible pavements: A review, challenges, and future directions},
       journal = {Infrastructures},
       year    = {2023},
       volume  = {8},
@@ -54,22 +50,19 @@
     }
 
 - key: tamagusko2023datadriven
-  type: article
-  authors: "Tamagusko, T.; Gomes Correia, M.; Rita, L.; et al."
-  authors_short: "Tamagusko et al."
-  highlight: Tamagusko, T.
+  authors: "Tamagusko, T., Gomes Correia, M., Rita, L., Bostan, T.-C., Hasselwander, M., & Ferreira, A."
+  highlight: "Tamagusko, T."
   year: 2023
-  title: "Data-Driven Approach for Urban Micromobility Enhancement through Safety Mapping and Intelligent Route Planning"
-  venue: Smart Cities
-  venue_short: Smart Cities
+  title: "Data-driven approach for urban micromobility enhancement through safety mapping and intelligent route planning"
+  venue: "Smart Cities"
   volume: "6"
   number: "4"
-  pages: "2035-2056"
-  doi: 10.3390/smartcities6040094
+  pages: "2035–2056"
+  doi: "10.3390/smartcities6040094"
   bibtex: |
     @article{tamagusko2023datadriven,
       author  = {Tamagusko, Tiago and Gomes Correia, Matheus and Rita, Lu{\'i}s and Bostan, Tudor-Codrut and Hasselwander, Marc and Ferreira, Adelino},
-      title   = {Data-Driven Approach for Urban Micromobility Enhancement through Safety Mapping and Intelligent Route Planning},
+      title   = {Data-driven approach for urban micromobility enhancement through safety mapping and intelligent route planning},
       journal = {Smart Cities},
       year    = {2023},
       volume  = {6},
@@ -79,21 +72,18 @@
     }
 
 - key: tamagusko2022deep
-  type: article
-  authors: "Tamagusko, T.; Correia, M.; Huynh, M.; Ferreira, A."
-  authors_short: "Tamagusko, Correia, Huynh, Ferreira"
-  highlight: Tamagusko, T.
+  authors: "Tamagusko, T., Correia, M., Huynh, M., & Ferreira, A."
+  highlight: "Tamagusko, T."
   year: 2022
-  title: "Deep Learning applied to Road Accident Detection with Transfer Learning and Synthetic Images"
-  venue: Transportation Research Procedia
-  venue_short: TRP
+  title: "Deep learning applied to road accident detection with transfer learning and synthetic images"
+  venue: "Transportation Research Procedia"
   volume: "64"
-  pages: "90-97"
-  doi: 10.1016/j.trpro.2022.09.012
+  pages: "90–97"
+  doi: "10.1016/j.trpro.2022.09.012"
   bibtex: |
     @article{tamagusko2022deep,
       author  = {Tamagusko, Tiago and Correia, Matheus Gomes and Huynh, Minh and Ferreira, Adelino},
-      title   = {Deep Learning applied to Road Accident Detection with Transfer Learning and Synthetic Images},
+      title   = {Deep learning applied to road accident detection with transfer learning and synthetic images},
       journal = {Transportation Research Procedia},
       year    = {2022},
       volume  = {64},
@@ -102,20 +92,21 @@
     }
 
 - key: hasselwander2021building
-  type: article
-  authors: "Hasselwander, M.; Tamagusko, T.; Bigotte, J.; Ferreira, A.; Mejia, A.; Ferranti, E. J. S."
-  authors_short: "Hasselwander, Tamagusko et al."
-  highlight: Tamagusko, T.
+  authors: "Hasselwander, M., Tamagusko, T., Bigotte, J. F., Ferreira, A., Mejia, A., & Ferranti, E. J. S."
+  highlight: "Tamagusko, T."
   year: 2021
   title: "Building back better: The COVID-19 pandemic and transport policy implications for a developing megacity"
-  venue: Sustainable Cities and Society
-  venue_short: SCS
-  doi: 10.1016/j.scs.2021.102864
+  venue: "Sustainable Cities and Society"
+  volume: "69"
+  pages: "102864"
+  doi: "10.1016/j.scs.2021.102864"
   bibtex: |
     @article{hasselwander2021building,
       author  = {Hasselwander, Marc and Tamagusko, Tiago and Bigotte, Jo{\~a}o F. and Ferreira, Adelino and Mejia, Andres and Ferranti, Emma J. S.},
       title   = {Building back better: The {COVID}-19 pandemic and transport policy implications for a developing megacity},
       journal = {Sustainable Cities and Society},
       year    = {2021},
+      volume  = {69},
+      pages   = {102864},
       doi     = {10.1016/j.scs.2021.102864}
     }
