@@ -17,3 +17,11 @@ vendor/
 # IDE
 .vscode/
 .idea/
+
+# Node (only if used locally for tooling)
+node_modules/
+package-lock.json
+
+# Working artifacts (Playwright screenshots, MCP browser cache)
+.playwright-mcp/
+/*.png
